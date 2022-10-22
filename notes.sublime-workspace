@@ -1,0 +1,2261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"end{document}\ttikz-1.tex"
+			],
+			[
+				"conve",
+				"convert_to_binary_8"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"remo",
+				"front_remove\tvoid front_remove()"
+			],
+			[
+				"h",
+				"head\tNode * head"
+			],
+			[
+				"pr",
+				"print\tvoid print()"
+			],
+			[
+				"new",
+				"new_node\tNode * new_node"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"In",
+				"Init\tvoid Init()"
+			],
+			[
+				"CC",
+				"CCFLAGS"
+			],
+			[
+				"cc",
+				"CC"
+			],
+			[
+				"TARGET",
+				"TARGET_NAME"
+			],
+			[
+				"num",
+				"numPairs\tint numPairs"
+			],
+			[
+				"fre",
+				"free\tvoid free(void *__ptr)"
+			],
+			[
+				"str",
+				"strcmp\tint strcmp(const char *__s1, const char *__s2)"
+			],
+			[
+				"bu",
+				"buffer\tchar * buffer"
+			],
+			[
+				"strc",
+				"strcpy\tchar * strcpy(char *restrict __dest, const char *restrict __src)"
+			],
+			[
+				"size",
+				"size_t\tsize_t"
+			],
+			[
+				"b",
+				"bufsize"
+			],
+			[
+				"cha",
+				"characters\tsize_t characters"
+			],
+			[
+				"std",
+				"stdlib.h\t/usr/include"
+			],
+			[
+				"name",
+				"nameStar\tint nameStar(Star *s, char *first_name, char *sur_name)"
+			],
+			[
+				"nm",
+				"nm3\tchar [20] nm3"
+			],
+			[
+				"loa",
+				"loadUniverse\tint loadUniverse()"
+			],
+			[
+				"pai",
+				"pairs\tPair *[945] pairs"
+			],
+			[
+				"draw",
+				"drawUniverse\tvoid drawUniverse()"
+			],
+			[
+				"si",
+				"sigma"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"nu",
+				"numPairs\tint numPairs"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"save",
+				"saveUniverse\tint saveUniverse()"
+			],
+			[
+				"show",
+				"showBuffer\tvoid showBuffer()"
+			],
+			[
+				"lis",
+				"listStars\tvoid listStars()"
+			],
+			[
+				"st",
+				"stars\tStar *[1891] stars"
+			],
+			[
+				"s",
+				"s\tStar * s"
+			],
+			[
+				"na",
+				"name\tchar [30] name"
+			],
+			[
+				"max",
+				"MaxPair\tMaxPair"
+			],
+			[
+				"id",
+				"idh"
+			],
+			[
+				"dis",
+				"dis\tstruct dist [3575881] dis"
+			],
+			[
+				"di",
+				"dis\tstruct dist [3575881] dis"
+			],
+			[
+				"sav",
+				"saveUniverse\tint saveUniverse()"
+			],
+			[
+				"tim",
+				"time_t\ttime_t"
+			],
+			[
+				"A",
+				"Alsalka"
+			],
+			[
+				"dist",
+				"dist2\tdouble dist2"
+			],
+			[
+				"clos",
+				"closestPair\tPair * closestPair()"
+			],
+			[
+				"nam",
+				"nameStar\tint nameStar(Star *s, char *first_name, char *sur_name)"
+			],
+			[
+				"f_n",
+				"f_namee\tchar * f_namee"
+			],
+			[
+				"firt",
+				"first_name\tchar * first_name"
+			],
+			[
+				"Max",
+				"MaxStar"
+			],
+			[
+				"to",
+				"tolerance\tdouble tolerance"
+			],
+			[
+				"t",
+				"tolerance\tdouble tolerance"
+			],
+			[
+				"pa",
+				"pairs\tPair *[945] pairs"
+			],
+			[
+				"fte",
+				"ftell\tlong ftell(FILE *__stream)"
+			],
+			[
+				"SE",
+				"SEEK_SET\tSEEK_SET"
+			],
+			[
+				"fp",
+				"fp1\tFILE * fp1"
+			],
+			[
+				"buf",
+				"buffw\tchar [20] buffw"
+			],
+			[
+				"RE",
+				"return\treturn expression"
+			],
+			[
+				"poin",
+				"pointDistance\tdouble pointDistance(double x1, double y1, double x2, double y2)"
+			],
+			[
+				"star",
+				"stars\tStar *[1891] stars"
+			],
+			[
+				"numa",
+				"numStars\tint numStars"
+			],
+			[
+				"su",
+				"sur_name\tchar * sur_name"
+			],
+			[
+				"surn",
+				"sur_name\tchar * sur_name"
+			],
+			[
+				"strln",
+				"strlen\tunsigned long strlen(const char *__s)"
+			],
+			[
+				"sur",
+				"sur_name\tchar * sur_name"
+			],
+			[
+				"fir",
+				"first_name\tchar * first_name"
+			],
+			[
+				"wri",
+				"writeAt\tvoid writeAt(int row, int col, char *text)"
+			],
+			[
+				"ra",
+				"rand\tint rand()"
+			],
+			[
+				"m",
+				"MaxStar"
+			],
+			[
+				"ST",
+				"Star\tStar"
+			],
+			[
+				"sta",
+				"stars\tStar *[1891] stars"
+			],
+			[
+				"wr",
+				"writeAt\tvoid writeAt(int row, int col, char *str)"
+			],
+			[
+				"clea",
+				"clearBuffer\tvoid clearBuffer()"
+			],
+			[
+				"enc",
+				"encrypt\tvoid encrypt(char *j, int l)"
+			],
+			[
+				"encr",
+				"encryption"
+			],
+			[
+				"n",
+				"n_1\tint n_1"
+			],
+			[
+				"arg",
+				"argv\tchar ** argv"
+			],
+			[
+				"ma",
+				"maxletter"
+			],
+			[
+				"AR",
+				"argument"
+			],
+			[
+				"grid",
+				"grid_size"
+			],
+			[
+				"g",
+				"grid_size"
+			],
+			[
+				"sum",
+				"sumNeg\tint sumNeg(int *y, int n)"
+			],
+			[
+				"Ma",
+				"MaxArraysize"
+			],
+			[
+				"gr",
+				"grdsze"
+			],
+			[
+				"pl",
+				"playback\tvoid playback()"
+			],
+			[
+				"rc",
+				"rc_O_i"
+			],
+			[
+				"pla",
+				"playback\tvoid playback()"
+			],
+			[
+				"win",
+				"showWinMessage\tvoid showWinMessage(char symbol)"
+			],
+			[
+				"i_",
+				"i_O\tint i_O"
+			],
+			[
+				"gri",
+				"grid\tchar [10][10] grid"
+			],
+			[
+				"sy",
+				"symbol_X\tchar symbol_X"
+			],
+			[
+				"shiw",
+				"showGrid\tvoid showGrid()"
+			],
+			[
+				"r_",
+				"rc_X_i\tint rc_X_i"
+			],
+			[
+				"c",
+				"c_X\tchar [10] c_X"
+			],
+			[
+				"player",
+				"playerHasWon\tint playerHasWon(char symbol, int length)"
+			],
+			[
+				"symb",
+				"symbol_X\tchar symbol_X"
+			],
+			[
+				"contin",
+				"continue"
+			],
+			[
+				"e",
+				"else\telse"
+			],
+			[
+				"sh",
+				"showErrIndex\tvoid showErrIndex()"
+			],
+			[
+				"ch",
+				"chekdiag\tint chekdiag(int n)"
+			],
+			[
+				"r",
+				"row\tint row"
+			],
+			[
+				"playb",
+				"playback_continue\tvoid playback_continue()"
+			],
+			[
+				"symbol_",
+				"symbol_O\tchar symbol_O"
+			],
+			[
+				"make",
+				"makeMove\tint makeMove(int row, int col, char symbol)"
+			],
+			[
+				"init",
+				"initial_grid\tvoid initial_grid()"
+			],
+			[
+				"col",
+				"col\tint col"
+			],
+			[
+				"c_",
+				"c_X"
+			],
+			[
+				"bo",
+				"boardIsFull\tint boardIsFull()"
+			],
+			[
+				"che",
+				"checkAntiDiagonals\tint checkAntiDiagonals(char symbol, int length)"
+			],
+			[
+				"gir",
+				"grid\tchar [10][10] grid"
+			],
+			[
+				"chos",
+				"choose_location\tvoid choose_location(int symbol)"
+			],
+			[
+				"mak",
+				"makeMove\tint makeMove(int row, int col, char symbol)"
+			],
+			[
+				"cho",
+				"choose_location_x\tvoid choose_location_x()"
+			],
+			[
+				"en",
+				"enter_winlength\tvoid enter_winlength()"
+			],
+			[
+				"ini",
+				"initial_grid\tvoid initial_grid()"
+			],
+			[
+				"pro",
+				"promptChooseLocation\tvoid promptChooseLocation(char symbol)"
+			],
+			[
+				"promptE",
+				"promptEnterGridSize\tvoid promptEnterGridSize()"
+			],
+			[
+				"M",
+				"MaxNumberColums\tMaxNumberColums"
+			],
+			[
+				"qa",
+				"QAmountToPay\tdouble QAmountToPay"
+			],
+			[
+				"qw",
+				"QWaterConsumption\tint QWaterConsumption"
+			],
+			[
+				"qam",
+				"qamount\tdouble qamount"
+			],
+			[
+				"ex",
+				"exit\tvoid exit(int __status)"
+			],
+			[
+				"f",
+				"float\tfloat"
+			],
+			[
+				"Qwa",
+				"QWasteWaterCharge\tdouble QWasteWaterCharge"
+			],
+			[
+				"QA",
+				"QAmountToPay\tdouble QAmountToPay"
+			],
+			[
+				"qT",
+				"QTotalCharge\tdouble QTotalCharge"
+			],
+			[
+				"do",
+				"double\tdouble"
+			],
+			[
+				"Qt",
+				"QTotalCharge"
+			],
+			[
+				"Qa",
+				"QAmountToPay\tdouble QAmountToPay"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/media/harithalsafi/DATA/Media/Documents/Coding/latex/tikz-1.tex",
+			"settings":
+			{
+				"buffer_size": 1948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Latex.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c-build-all.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/octave.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c-build-all.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/octave.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c-build-all.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c-compile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c-compile.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c_2.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c_2.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c_2.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Debug"
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/octave.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/c-build-all.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/octave.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/make.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Debug"
+				]
+			],
+			[
+				"Packages/User/make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Debug"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python-3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python-3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python-3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python-3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3-terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python-3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/syntax.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/syntax.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python-3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/syntax.sublime-build",
+					""
+				],
+				[
+					"Packages/User/syntax.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/syntax.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python-3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/syntax.sublime-build",
+					""
+				],
+				[
+					"Packages/User/syntax.sublime-build",
+					"syntax"
+				]
+			],
+			[
+				"Packages/User/syntax.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/ShellScript/ShellScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Latex.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Latex.sublime-build",
+					"View"
+				]
+			],
+			[
+				"Packages/User/Latex.sublime-build",
+				"View"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Latex.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Latex.sublime-build",
+					"View"
+				],
+				[
+					"Packages/User/Latex.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/Latex.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/matlab.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/make.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/make.sublime-build",
+					"Debug"
+				]
+			],
+			[
+				"Packages/User/make.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/matlab.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/matlab.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/octave.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3-terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/octave.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"VIEW",
+				"View Package File"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: str",
+				"Snippet: string-array"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"vire",
+				"View: Toggle Side Bar"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"helium",
+				"Helium: Start Kernel"
+			],
+			[
+				"hel",
+				"Helium: Connect Kernel"
+			],
+			[
+				"helui",
+				"Helium: Connect Kernel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: makefile"
+			],
+			[
+				"v",
+				"View Package File"
+			],
+			[
+				"vew",
+				"View Package File"
+			],
+			[
+				"vi",
+				"View Package File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: s",
+				"Snippet: string-array"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"side ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Snippet: array",
+				"Snippet: arrays"
+			],
+			[
+				"Snippet: strin",
+				"Snippet: string-array"
+			],
+			[
+				"view ",
+				"View Package File"
+			],
+			[
+				"set syntac",
+				"Set Syntax: C"
+			],
+			[
+				"chea",
+				"Set Syntax: cheatsheet"
+			],
+			[
+				"view pa",
+				"View Package File"
+			],
+			[
+				"package ",
+				"View Package File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sele",
+				"UI: Select Theme"
+			],
+			[
+				"packagefie",
+				"View Package File"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packfile",
+				"View Package File"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package fi",
+				"View Package File"
+			],
+			[
+				"ma",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package isn",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packa f",
+				"View Package File"
+			],
+			[
+				"sublimeli",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Reset"
+			],
+			[
+				"terminus sele",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"view p",
+				"View Package File"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/harithalsafi/DATA/Media/Documents/Coding/latex"
+	],
+	"file_history":
+	[
+		"/media/harithalsafi/DATA/Media/Documents/Coding/latex/tikz-1.tex",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/Latex.sublime-build",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/summaries/Digital_electronics_1.tex",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/summaries/tkz.tex",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/asm.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/demos/demo_4.c",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/string-array.sublime-snippet",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Projects/Python/README.md",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/general.ipynb",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/test",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-9.2/f.h",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/make.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/c.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/makefile.sublime-snippet",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/el20hzaa/Makefile",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/el20hzaa/logic.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/el20hzaa/graph.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/el20hzaa/main.c",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/C++/C Single File.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/ShellScript/Snippets/#!-usr-bin-env-(!env).sublime-snippet",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-9.2/f1.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-9.2/main.c",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/C++/C.sublime-syntax",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/octave.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/matlab.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/python-terminus.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/Python-3.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/python3-terminus.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/c-build-all.sublime-build",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/demos/demo_3.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-8.2/file.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-6.1/struct_2.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/graph.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/logic.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/uni.h",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/main.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-3/test.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-9.1/recursion.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/test.c",
+		"/usr/include/string.h",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-8.2/read.txt",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-8.2/apend.txt",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/tic.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Engineering-Mathematics/unit-2/week_7.m",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Engineering-Mathematics/matlab/intro.m",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-7.1/char.c",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/c_2.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/arrays.sublime-snippet",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-7.2/practice/task_7.4.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-7.2/practice/task_7.1.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-7.2/practice/task_7.2.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-7.2/practice/task_7.5.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-7.2/practice/task_7.8.c",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/c_string.sublime-snippet",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/SublimeGDB/Default.sublime-keymap",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/demo_2.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-7.2/command_line.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-6.2/pointers.c",
+		"/home/harithalsafi/Downloads/test.c",
+		"/build/glibc-2ORdQG/glibc-2.27/malloc/malloc.c",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/SublimeLinter-gcc/README.md",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/struct_2.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/struct.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/SelfGrader.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/tic-2.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/grid.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-2/tic.h",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-4.2/char.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/coursework-1/water.c",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/others/pyth.py",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/demo_1.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-3.2/demo_1.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-3.2/arrays.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit2.2/practice.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-3.1/combination-2.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-3.1/combination-1.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit2.2/fibonacci.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-2.2/fibonacci.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.2/further-excercies/circle.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.2/further-excercies/temp.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.2/further-excercies/distance.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.2/further-excercies/newton.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.2/further-excercies/mechanics.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit2.1/2_1.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.2/equation.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.2/1_2.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/unit-1.1/1_1.c",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Projects/Python/kinematics.py",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/week-1/c1.c",
+		"/media/harithalsafi/DATA/Education/University/University-Year-1/Procedural-Programming/week-1/a.out",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/C/c1.c",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/c-compile.sublime-build",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/extensive-python/artificial-intelligence/P1.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/vector-fields.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/others/whatsapp_bot.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/others/bot.py",
+		"/home/harithalsafi/custom-scripts/net.sh",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Projects/README.md",
+		"/home/harithalsafi/custom-scripts/rofi.sh",
+		"/home/harithalsafi/custom-scripts/git.sh",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/custome-theme/custom-theme.sublime-theme",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/Theme - Default/Default.sublime-theme",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Projects/Python/guess-game.py",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/Theme - Default/adaptive/Adaptive.sublime-theme",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/FileIcons/theme/Default.sublime-theme",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/FileIcons/theme/Adaptive.sublime-theme",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Projects/Python/triangle-calculater.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/test.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/Game-dev/main.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/3D-graphs.py\n3D-graphs.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/test.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/3D-graphs.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/parametric-surfaces.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/linear-equations.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/differential-equations.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/calculus.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/computational-science/coil.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Projects/Python/graphing-calc.py",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/Algorithms/L1.py",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Octave/vector-fields.m",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/User/Octave.sublime-build",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Python/extensive-python/L30-Data-science/pandas/D7-data-frame-data-structure.py",
+		"/home/harithalsafi/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+		"/media/harithalsafi/DATA/Media/Documents/Coding/Projects/Python/testt.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 230.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/media/harithalsafi/DATA/Work/cv"
+		},
+		{
+			"path": "/media/harithalsafi/DATA/Education/University/University-Year-1/summaries"
+		},
+		{
+			"path": "/media/harithalsafi/DATA/Personal/Other/Notes"
+		},
+		{
+			"path": "/media/harithalsafi/DATA/Media/Documents/Coding/latex"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/media/harithalsafi/DATA/Media/Documents/Coding/latex/tikz-1.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1948,
+						"regions":
+						{
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										206,
+										211
+									],
+									[
+										268,
+										273
+									],
+									[
+										1437,
+										1442
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										175,
+										175
+									],
+									[
+										238,
+										238
+									],
+									[
+										1403,
+										1403
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										295,
+										299
+									]
+								],
+								"scope": "col_0000FFFF"
+							},
+							"col_0000FFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000FFFF_circle.png",
+								"regions":
+								[
+									[
+										275,
+										275
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_008000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										197,
+										202
+									],
+									[
+										1004,
+										1009
+									]
+								],
+								"scope": "col_008000FF"
+							},
+							"col_008000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_008000FF_circle.png",
+								"regions":
+								[
+									[
+										175,
+										175
+									],
+									[
+										989,
+										989
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D2B48CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1419,
+										1422
+									]
+								],
+								"scope": "col_D2B48CFF"
+							},
+							"col_D2B48CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D2B48CFF_circle.png",
+								"regions":
+								[
+									[
+										1403,
+										1403
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF0000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										233,
+										236
+									],
+									[
+										421,
+										424
+									],
+									[
+										1823,
+										1826
+									]
+								],
+								"scope": "col_FF0000FF"
+							},
+							"col_FF0000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_circle.png",
+								"regions":
+								[
+									[
+										213,
+										213
+									],
+									[
+										370,
+										370
+									],
+									[
+										1785,
+										1785
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFA500FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										258,
+										264
+									]
+								],
+								"scope": "col_FFA500FF"
+							},
+							"col_FFA500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFA500FF_circle.png",
+								"regions":
+								[
+									[
+										238,
+										238
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										816,
+										821
+									],
+									[
+										958,
+										963
+									],
+									[
+										1176,
+										1181
+									],
+									[
+										1298,
+										1303
+									],
+									[
+										1394,
+										1399
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										756,
+										756
+									],
+									[
+										899,
+										899
+									],
+									[
+										1145,
+										1145
+									],
+									[
+										1256,
+										1256
+									],
+									[
+										1328,
+										1328
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+						],
+						"settings":
+						{
+							"show_definitions": true,
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 238.0
+	},
+	"output.Terminus":
+	{
+		"height": 372.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 357.0
+	},
+	"output.exec":
+	{
+		"height": 267.0
+	},
+	"output.find_results":
+	{
+		"height": 240.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wa",
+				"Procedural-Programming/coursework-1/water.c"
+			],
+			[
+				"ki",
+				"Projects/Python/kinematics.py"
+			],
+			[
+				"vect",
+				"Python/computational-science/vector-fields.py"
+			],
+			[
+				"kine",
+				"Projects/Python/kinematics.py"
+			],
+			[
+				"trian",
+				"Projects/Python/triangle-calculater.py"
+			],
+			[
+				"",
+				"Projects/Python/kinematics.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/custom-scripts/custom-sctripts.sublime-project"
+			],
+			[
+				"ma",
+				"/media/harithalsafi/DATA/Education/University/University-Year-1/matlab.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kine",
+				"kinematics"
+			],
+			[
+				"pro_U_ux",
+				"pro_U_ux"
+			]
+		],
+		"width": 562.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

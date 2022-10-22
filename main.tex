@@ -1,0 +1,397 @@
+%%%%%%%%%%%%%%%%%
+% This is an sample CV template created using altacv.cls
+% (v1.2, 11 February 2020) written by LianTze Lim (liantze@gmail.com). Now compiles with pdfLaTeX, XeLaTeX and LuaLaTeX.
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.bb
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% If you need to pass whatever options to xcolor
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+%% If you are using \orcid or academicons
+%% icons, make sure you have the academicons
+%% option here, and compile with XeLaTeX
+%% or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[11pt,a4paper,ragged2e]{altacv}
+
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages.
+%% See http://texdoc.net/pkg/fontawesome and http://texdoc.net/pkg/academicons for full list of symbols. You MUST compile with XeLaTeX or LuaLaTeX if you want to use academicons.
+
+% Change the page layout if you need to
+\geometry{left=0.8cm,right=0.8cm,top=1cm,bottom=1cm,columnsep=1.2cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Lato}
+\else
+  % If using pdflatex:
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[default]{lato}
+\fi
+\usepackage{hyperref}
+% Change the colours if you want to
+\definecolor{Mulberry}{HTML}{72243D}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\definecolor{White}{HTML}{FFFFFF}
+\definecolor{Black}{HTML}{000000}
+\colorlet{heading}{Black}
+\colorlet{accent}{Black}
+\colorlet{emphasis}{Black}
+\colorlet{body}{Black}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% sample.bib contains your publications
+% \addbibresource{sample.bib}
+
+\begin{document}
+\name{Harith Al-Safi}
+\tagline{Electronics and Computer Engineer}
+%% You can add multiple photos on the left or right
+%\photoR{3.0cm}{personal}
+% \photoL{2.5cm}{Yacht_High,Suitcase_H  igh}
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+  \email{\href{mailto:harith.alsafi@gmail.com}{harith.alsafi@gmail.com}}
+  \phone{\href{tel:+447444585915}{+447444585915}}
+  % \mobile{\href{tel:+962785204730}{+9627805204730}}
+  \location{Leeds, UK}
+  \homepage{\href{https://harith-alsafi.github.io/}{Portfolio: https://harith-alsafi.github.io/}}
+   \linkedin{\href{https://www.linkedin.com/in/harith-al-safi}{Linkeden: https://www.linkedin.com/in/harith-al-safi}}
+  \github{\href{https://www.github.com/harith-alsafi}{Github: https://www.github.com/harith-alsafi}}
+  % \instagram{\href{https://www.instagram.com/harith_alsafi/}{Instagram}}
+  %% You MUST add the academicons option to \documentclass, then compile with LuaLaTeX or XeLaTeX, if you want to use \orcid or other academicons commands.
+  % \orcid{orcid.org/0000-0000-0000-0000}
+}
+
+\makecvheader
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+%% Set the left/right column width ratio to 6:4.
+\columnratio{0.5}
+
+% Start a 2-column paracol. Both the left and right columns will automatically
+% break across pages if things get too long.
+\begin{paracol}{2}
+\smallskip
+\cvsection{\faBlackTie \, About me}
+
+An engineer with a great enthusiasm towards data science and Artificial Intelligence. I post regular \\workout and nutrition contents. Am quite fervent about cryptocurrency trading and investment. \smallskip
+
+\cvsection{\faBriefcase \, Experience}
+\cvevent{Software Engineer Intern}{Johnson Controls R\&D department}{July 2022 -- July 2023}{London UK}
+\begin{itemize}
+\item Managed a 23-year-old C/C++ project called SEE whilst adding new fire detection algorithms and features requested by engineers and scientists 
+\item Redesigned SEE with a full GUI interface in C\#\\
+using .NET WPF with multithreaded design paradigm and serial communication for data extraction 
+\item Engineered a scripting language with a custom Compiler used by engineers for implementing fire detection algorithms in SEE
+\end{itemize}
+\divider
+
+\cvevent{Software Developer Freelance}{Paperound}{Nov 2021 -- Feb 2022}{Leeds UK}
+\begin{itemize}
+\item Developed a book library management system in C 
+\item Designed Python NumPy, SciPy and Scikit-learn scripts for data analysis and visualization
+\item Programmed simple PowerShell automation scripts to ease up system administration
+\end{itemize}
+\divider
+
+\cvevent{IT administration intern}{\href{http://mesopotamiaco.com/index.aspx}{Mesopotamia Group}}{Jun 2020 -- Mar 2021}{Amman Jordan}
+\begin{itemize}
+\item Produced a local file server on Ubuntu 18.04 LTS built using Apache and Nextcloud as the file browser
+\item Administered the system using bash scripts with SSH tunneling and port forwarding
+\item Engineered another version using a network \\ interface card and a network attached storage.
+\end{itemize}
+\divider
+
+\cvevent{MUN Conference Coordinator}{\href{http://cambridge.edu.jo/}{CHSMUN}}{Sep 2017 -- Nov 2017}{Amman Jordan}
+\begin{itemize}
+\item Organized modern united nation meetings
+\item Formalized professional conclusion reports after each meeting with statistical proof on each claim
+% \item Initiated researched debates about global issues
+% \item Achieved the best delegate status in the form of well researched debates and reports
+\end{itemize}
+
+
+\switchcolumn
+\smallskip
+
+\cvsection{ \faBook \, Education}
+\cvevent{B.Eng.\ in Electronics and Computer}{\href{https://courses.leeds.ac.uk/f457/electronics-and-computer-engineering-meng-beng}{University of Leeds}}{Sept 2020 -- June 2024 \quad \faCheckSquare \ \ Y1: 88\%, \ Y2: 79\%}{}
+\begin{itemize}
+\item Engineering and Discrete Mathematics
+\item Cloud and Parallel computing
+\item Electronics and Circuit analysis
+\item Communications and Signals
+\item Networking and Cybersecurity
+\item User interface and Compiler Design
+\item Microprocessors and Embedded systems
+\end{itemize}
+\divider
+
+\cvevent{Foundation in Engineering and Computing}{\href{https://www.leedsisc.com/our-courses/international-foundation-year/science-engineering-computing}{University of Leeds (LISC)}}{Sept 2019 -- June 2020 \quad \faCheckSquare \ \ 93\%}{}
+
+\begin{itemize}
+\item Advanced Physics and Math
+\item Autodesk AutoCAD
+\end{itemize}
+\divider
+
+\cvevent{IB Science certificate}{\href{http://cambridge.edu.jo/}{Cambridge High School}}{Sept 2017 -- June 2019 \quad \faCheckSquare \ \ 40/42}{}
+
+\begin{itemize}
+\item Physics and Math
+\item Languages and Economics
+\end{itemize}
+
+\divider
+\cvevent{Primary School}{\href{http://cambridge.edu.jo/}{Cambridge High School}}{Sept 2007 -- June 2017}{}
+\begin{itemize}
+\item Basic primary school
+\end{itemize}
+
+\cvsection{\faUser \, Skills}
+\cvtag{C}
+\cvtag{C++}
+\cvtag{Python}
+\cvtag{Java}
+\cvtag{C\#}
+\cvtag{JavaScript} \\
+\vspace{0.5mm}
+\cvtag{CSS} 
+\cvtag{HTML5}
+\cvtag{SQL}
+\cvtag{Matlab} 
+\cvtag{PowerShell} \\
+\vspace{0.5mm}
+\cvtag{Bash} 
+\cvtag{Verilog}
+\cvtag{Assembly} 
+\cvtag{Latex}
+\cvtag{Markdown} 
+\divider \\
+\cvtag{Hard-working}
+\cvtag{Motivated}
+\cvtag{Deterministic}\\
+\vspace{0.5mm}
+\cvtag{Leadership}
+\cvtag{Communication} \smallskip
+
+\cvsection{\faLanguage \, Languages}
+\cvskill{English}{5}
+\divider
+\cvskill{Arabic}{5}
+
+
+%% spacing consistent... sorry. Use \smallskip, \medskip,
+%% \bigskip, \vpsace etc to make ajustments.
+% \medskip
+
+
+\switchcolumn
+\newpage
+\cvsection{\faTasks \, Projects}
+\cvevent{\href{https://harith-alsafi.github.io/mcpp-doc}{mcpp}}{}{Apr 2021 - Ongoing \quad \faMapPin \ \ Personal}{}
+\begin{itemize}
+\item Created a cross platform math library using C++
+\item Incorporated numerical algorithms revolving around matrix algebra, calculus and statistics.
+\item Administered using \href{https://travis-ci.org/}{Travis CI}
+\item Tested using \href{https://github.com/google/googletest}{GoogleTest}
+\item Documented using \href{https://www.doxygen.nl/index.html}{Doxygen} and \href{https://www.mkdocs.org/}{MkDocs}
+\item Regulated using \href{https://git-scm.com/}{git} and \href{https://github.com/}{Github}
+\end{itemize}
+\divider
+
+\cvevent{\href{https://github.com/harith-alsafi/harith-alsafi.github.io}{Jupyter Notebook Startup script}}{}{Mar 2021 - Ongoing \quad \faMapPin \ \ Personal}{}
+\begin{itemize}
+\item Integrated computational scripts for complex such as symbolic fourier series using \href{https://www.sympy.org/en/index.html}{Sympy}
+\item Introduced a triangle calculator and visualizer
+\item Established a kinematics calculator and visualizer for projectile motion
+\item Simplified 3D implicit, parametric and vector plots with the use of \href{https://docs.enthought.com/mayavi/mayavi/}{Mayavi}
+\end{itemize}
+\divider
+
+\cvevent{\href{https://github.com/harith-alsafi/harith-alsafi.github.io}{Video Browsing library}}{}{Nov 2021 - Ongoing \quad \faMapPin \ \ University}{}
+\begin{itemize}
+\item Programmed a user interface for a video viewing software using \href{https://www.qt.io/}{Qt} with C++
+\item Achieved through effective communication with other teammates
+\item Established a PACT report discussing the \\ implementation of the user interface
+\item Facilitated a creative design which implements the famous layout of \href{https://www.videolan.org/vlc/index.en_GB.html}{VLC}
+\end{itemize}
+\divider
+
+\cvevent{\href{https://github.com/harith-alsafi/harith-alsafi.github.io}{Embedded system}}{}{Jan 2021 - May 2021 \quad \faMapPin \ \ University}{}
+\begin{itemize}
+\item Developed an obstacle jumping game and timer
+\item Implemented a temperature and humidity detection system to avoid overheating
+\item Mapped several events to produce sound effects
+\item Operated on LPC1768 MCU with \href{https://os.mbed.com/}{Mbed} API
+\item restructured as a single file implementation
+\end{itemize}
+
+\cvsection{\faConnectdevelop \, Tools and frameworks}
+\cvtag{Docker}
+\cvtag{Linux}
+\cvtag {Git}
+\cvtag{CI/CD}
+\cvtag{Microsoft Azure}
+\cvtag{IBM Cloud}
+\cvtag{Firebase}
+\cvtag{IBM db2}
+\cvtag{.NET}
+\cvtag{WPF}
+\cvtag{React}
+\cvtag{Qt}
+\cvtag{Flutter}
+\cvtag{NumPy}
+\cvtag{SciPy}
+\cvtag{Pandas} 
+\cvtag{Scikit-learn}
+\cvtag{CMake}
+\cvtag {Office Suite} 
+\cvtag{Arm Mbed OS}
+\cvtag{Arduino}
+\cvtag{Logism}
+\cvtag{Multism}
+\cvtag{Intel Quartus Prime}
+\cvtag{AutoCAD}
+
+% use ONLY \newpage if you want to force a page break for
+% ONLY the current column
+\switchcolumn
+\newpage
+
+\cvsection{\faCertificate \, Professional Courses}
+\cvevent{\href{https://coursera.org/share/04cc7aedb131d2ec5e627c5b6943365b}{Data Analysis with Python}}{}{Oct 2021}{}
+\begin{itemize}
+\item Performing data wrangling  such as formatting and pre-processing
+\item Statistical correlation between datasets such as the Chi-Square for categorical variables
+\item Modelling data into linear and polynomial \\ regressions
+\item Model deployment using regression pipelines
+\item Model training and evaluation
+\end{itemize}
+\divider
+
+\cvevent{\href{https://coursera.org/share/e3d5bbb39e72fa4deb5730f2d48c8979}{Databases and SQL for Data Science with Python}}{}{Sept 2021}{}
+\begin{itemize}
+\item Relational database structure
+\item Advanced SQL syntax and its integration with python
+\item Using SQL to retrieve selective data from CSV files
+\end{itemize}
+\divider
+
+\cvevent{\href{https://coursera.org/share/6878977db8f2fbc30ac46f61dced356a}{Python for Data Science, AI \& Development}}{}{Aug 2021}{}
+\begin{itemize}
+\item Basics of Python and object oriented programming
+\item Quick summary of \href{https://pandas.pydata.org/}{pandas} and \href{https://numpy.org/}{Numpy}
+\item Viewing projects such as retrieving cryptocurrency data
+\end{itemize}
+\divider
+
+\cvevent{\href{https://coursera.org/share/d8a5a903819c5c1630966c8f31e10d2f}{Data Science Methodology}}{}{Aug 2021}{}
+\begin{itemize}
+\item Understanding different approaches to data science
+\item Looking at case studies regarding data collection and requirements
+\end{itemize}
+\divider
+
+\cvevent{\href{https://coursera.org/share/93d4419e7af771becc207723b671843a}{Tools for Data Science}}{}{Jul 2021}{}
+\begin{itemize}
+\item Using \href{https://jupyter.org/}{Jupyter Notebook}
+\item IBM tools such as IBM Watson Studio
+\end{itemize}
+\divider
+
+\cvevent{\href{https://coursera.org/share/a785833336cd1025863f958a616159ca}{What is Data Science?}}{}{Jun 2021}{}
+\begin{itemize}
+\item Introduction to data science and big data
+\item Structure of data science reports
+\end{itemize}
+\divider
+
+\cvevent{\href{https://www.coursera.org/account/accomplishments/verify/93PY64WDHCXY?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course}{Matrix Algebra for Engineers}}{}{Nov 2020 - Jan 2021}{}
+\begin{itemize}
+\item Basics of matrix algebra and properties of matrices
+\item Linear algebra and its use in statistical analysis
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% \divider
+
+% \cvevent{MEng\ in Artficial Intelligence}{University of Southampton}{Sept 2023 -- June 2024}{}
+
+% \divider
+
+% \cvsection{Referees}
+
+% % \cvref{name}{email}{mailing address}
+% \cvref{Prof.\ Alpha Beta}{Institute}{a.beta@university.edu}
+% {Address Line 1\\Address line 2}
+
+% \divider
+
+% \cvref{Prof.\ Gamma Delta}{Institute}{g.delta@university.edu}
+% {Address Line 1\\Address line 2}
+
+
+% \switchcolumn
+% \vspace{100mm}
+% \cvsection{Publications}
+
+% \nocite{*}
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal Articles}},type=article]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faGroup}{Conference Proceedings}},type=inproceedings]
+
+% %% Switch to the right column. This will now automatically move to the second
+% %% page if the content is too long.
+
+\end{paracol}
+
+
+\end{document}
