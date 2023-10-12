@@ -133,19 +133,34 @@
 \newcommand{\orcidsymbol}{\aiOrcid}
 \newcommand{\mailsymbol}{\faEnvelope}
 
-\newcommand{\printinfo}[2]{\mbox{\textcolor{accent}{\normalfont #1}\hspace{0.5em}#2\hspace{2em}}}
+\newcommand{\printinfo}[2]{\mbox{\textcolor{accent}{\normalfont #1}\hspace{0.5em}#2\hspace{1em}}}
 \newcommand{\name}[1]{\def\@name{#1}}
 \newcommand{\tagline}[1]{\def\@tagline{#1}}
-\newcommand{\email}[1]{\printinfo{\emailsymbol}{#1}}
-\newcommand{\mailaddress}[1]{\printinfo{\mailsymbol}{#1}}
-\newcommand{\phone}[1]{\printinfo{\phonesymbol}{#1}}
+
+\newcommand{\email}[1]{\def\@email{#1}}
+\newcommand{\phone}[1]{\def\@phone{#1}}
+\newcommand{\homepage}[1]{\def\@homepage{#1}}
+\newcommand{\github}[1]{\def\@github{#1}}
+\newcommand{\location}[1]{\def\@location{#1}}
+\newcommand{\linkedin}[1]{\def\@linkedin{#1}}
+
+\newcommand{\getemail}{\printinfo{\emailsymbol}{\@email}}
+\newcommand{\getphone}{\printinfo{\phonesymbol}{\@phone}}
+\newcommand{\gethomepage}{\printinfo{\homepagesymbol}{\@homepage}}
+\newcommand{\getgithub}{\printinfo{\githubsymbol}{\@github}}
+\newcommand{\getlocation}{\printinfo{\locationsymbol}{\@location}}
+\newcommand{\getlinkedin}{\printinfo{\linkedinsymbol}{\@linkedin}}
+
+% \newcommand{\email}[1]{\printinfo{\emailsymbol}{#1}}
+% \newcommand{\mailaddress}[1]{\printinfo{\mailsymbol}{#1}}
+% \newcommand{\phone}[1]{\printinfo{\phonesymbol}{#1}}
 \newcommand{\mobile}[1]{\printinfo{\mobilesymbol}{#1}}
-\newcommand{\homepage}[1]{\printinfo{\homepagesymbol}{#1}}
+% \newcommand{\homepage}[1]{\printinfo{\homepagesymbol}{#1}}
 \newcommand{\instagram}[1]{\printinfo{\instagramsymbol}{#1}}
-\newcommand{\linkedin}[1]{\printinfo{\linkedinsymbol}{#1}}
-\newcommand{\github}[1]{\printinfo{\githubsymbol}{#1}}
+% \newcommand{\linkedin}[1]{\printinfo{\linkedinsymbol}{#1}}
+% \newcommand{\github}[1]{\printinfo{\githubsymbol}{#1}}
 \newcommand{\orcid}[1]{\printinfo{\orcidsymbol}{#1}}
-\newcommand{\location}[1]{\printinfo{\locationsymbol}{#1}}
+% \newcommand{\location}[1]{\printinfo{\locationsymbol}{#1}}
 \newcommand{\personalinfo}[1]{\def\@personalinfo{#1}}
 
 % v1.2: Support for multiple photos
@@ -195,11 +210,11 @@
     % \begin{minipage}{\dimexpr\linewidth-\altacv@photos@width}%
     \begin{minipage}{\dimexpr\linewidth}%
     \raggedright\color{emphasis}%
-    {\Huge\bfseries{\@name}\par}
+    {\Huge\bfseries{\@name}\hfill}
+    {\footnotesize\bfseries \getlocation \getphone \getemail \gethomepage \\}
     \medskip
-    {\large\bfseries\color{accent}\@tagline\par}
-    \medskip
-    {\footnotesize\bfseries\@personalinfo\par}
+    {\large\bfseries\color{accent}\@tagline\hfill}
+    {\footnotesize\bfseries \getgithub \getlinkedin \\}
     \end{minipage}\hfill%
     % \altacv@right@photos\par%
   \endgroup
