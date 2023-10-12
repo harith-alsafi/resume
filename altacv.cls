@@ -244,8 +244,8 @@
   %\smallskip
   % \normalsize
   % \ifstrequal{#2}{}{}{\textbf{\color{accent}#2\smallskip}\smallskip}
-  {\ifstrequal{#2}{}{}{\textbf{\color{accent}#2\smallskip}\smallskip}}
-  {\ifstrequal{#4}{}{}{\hfill\faMapMarker\hspace{0.5em}#4}}
+  {\ifstrequal{#2}{}{}{\textbf{\color{accent}#2}}}
+  {\ifstrequal{#4}{}{}{\hfill\faMapMarker\hspace{0.5em}#4}{\vspace{-0mm}}}
   % \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendar\hspace{0.5em}#3}}}%
   % \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker\hspace{0.5em}#4}}}\par
   %\medskip
