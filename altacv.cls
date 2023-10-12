@@ -105,7 +105,7 @@
 \usetikzlibrary{arrows}
 \RequirePackage[skins]{tcolorbox}
 \RequirePackage[inline]{enumitem}
-\setlist{leftmargin=*,labelsep=0.5em,nosep,itemsep=0.25\baselineskip,after=\vspace{0.25\baselineskip}}
+\setlist{leftmargin=*,labelsep=0.5em,nosep,itemsep=0.25\baselineskip,after=\vspace{-0.35\baselineskip}}
 \setlist[itemize]{label=\itemmarker}
 \RequirePackage{graphicx}
 \RequirePackage{etoolbox}
@@ -116,6 +116,7 @@
 
 \setlength{\parindent}{0pt}
 \newcommand{\divider}{\textcolor{body!30}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\medskip}
+\newcommand{\tightdivider}{\textcolor{body!30}{\hdashrule{\linewidth}{0.6pt}{0.5ex}}\vspace{0.25\baselineskip}}
 
 \newenvironment{fullwidth}{%
   \begin{adjustwidth}{}{\dimexpr-\marginparwidth-\marginparsep\relax}}
@@ -210,7 +211,7 @@
 \newcommand{\cvsection}[2][]{%
   \medskip%
   \ifstrequal{#1}{}{}{\marginpar{\vspace*{\dimexpr1pt-\baselineskip}\raggedright\input{#1}}}%
-  {\color{heading}\LARGE\bfseries{#2}}\\[-1ex]%
+  {\color{heading}\Large\bfseries{#2}}\\[-1ex]%
   {\color{heading}\rule{\linewidth}{2pt}\par}
   %\medskip%
 }
@@ -223,16 +224,32 @@
 
 % v1.1.4: fixes inconsistent font size
 \newcommand{\cvevent}[4]{%
-  {\large\color{emphasis}#1\par}
+  {\large\color{emphasis}#1}
+  {\ifstrequal{#3}{}{}{\hfill\faCalendar\hspace{0.5em}#3\par}}
   %\smallskip
-  \normalsize
-  \ifstrequal{#2}{}{}{
-  \textbf{\color{accent}#2}\par
-  \smallskip}
-  \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendar\hspace{0.5em}#3}}}%
-  \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker\hspace{0.5em}#4}}}\par
+  % \normalsize
+  % \ifstrequal{#2}{}{}{\textbf{\color{accent}#2\smallskip}\smallskip}
+  {\ifstrequal{#2}{}{}{\textbf{\color{accent}#2\smallskip}\smallskip}}
+  {\ifstrequal{#4}{}{}{\hfill\faMapMarker\hspace{0.5em}#4}}
+  % \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendar\hspace{0.5em}#3}}}%
+  % \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker\hspace{0.5em}#4}}}\par
   %\medskip
-  \normalsize
+  % \normalsize
+}
+
+% v1.1.4: fixes inconsistent font size
+\newcommand{\cveducation}[4]{%
+  {\large\color{emphasis}#1}
+  {\ifstrequal{#3}{}{}{\hfill\faCalendar\hspace{0.5em}#3\par}}
+  %\smallskip
+  % \normalsize
+  % \ifstrequal{#2}{}{}{\textbf{\color{accent}#2\smallskip}\smallskip}
+  {\ifstrequal{#2}{}{}{\textbf{\color{accent}#2\smallskip}\smallskip}}
+  {\ifstrequal{#4}{}{}{\hfill\faCheckSquare\hspace{0.5em}#4}}
+  % \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendar\hspace{0.5em}#3}}}%
+  % \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faMapMarker\hspace{0.5em}#4}}}\par
+  %\medskip
+  % \normalsize
 }
 
 \newcommand{\cvachievement}[3]{%
