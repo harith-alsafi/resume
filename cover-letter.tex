@@ -1,0 +1,129 @@
+%%%%%%%%%%%%%%%%%
+% This is an sample CV template created using altacv.cls
+% (v1.2, 11 February 2020) written by LianTze Lim (liantze@gmail.com). Now compiles with pdfLaTeX, XeLaTeX and LuaLaTeX.
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.bb
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% If you need to pass whatever options to xcolor
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+%% If you are using \orcid or academicons
+%% icons, make sure you have the academicons
+%% option here, and compile with XeLaTeX
+%% or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[11pt,a4paper,ragged2e]{altacv}
+\hyphenpenalty=10000
+
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages.
+%% See http://texdoc.net/pkg/fontawesome and http://texdoc.net/pkg/academicons for full list of symbols. You MUST compile with XeLaTeX or LuaLaTeX if you want to use academicons.
+
+% Change the page layout if you need to
+\geometry{left=0.7cm,right=0.7cm,top=0.7cm,bottom=0.7cm,columnsep=1.2cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Lato}
+\else
+  % If using pdflatex:
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[default]{lato}
+\fi
+\usepackage{hyperref}
+\usepackage{ragged2e}
+% Change the colours if you want to
+\definecolor{Mulberry}{HTML}{72243D}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\definecolor{White}{HTML}{FFFFFF}
+\definecolor{Black}{HTML}{000000}
+\colorlet{heading}{Black}
+\colorlet{accent}{Black}
+\colorlet{emphasis}{Black}
+\colorlet{body}{Black}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+\begin{document}
+\RaggedRight
+\name{Harith Al-Safi}
+\tagline{Electronic \& Computer Engineer | Software Developer}
+\location{Leeds, UK}
+\email{\href{mailto:harith.alsafi@gmail.com}{harith.alsafi@gmail.com}}
+\phone{\href{tel:+447444585915}{+447444585915}}
+\homepage{\href{https://harith.io/}{https://harith.io/}}
+\linkedin{\href{https://www.linkedin.com/in/harith-al-safi}{linkedin.com/in/harith-al-safi}}
+\github{\href{https://www.github.com/harith-alsafi}{github.com/harith-alsafi}}
+
+\makecvheader
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+%% Set the left/right column width ratio to 6:4.
+\columnratio{0.5}
+
+% Start a 2-column paracol. Both the left and right columns will automatically
+% break across pages if things get too long.
+\begin{paracol}{1}
+\smallskip
+\cvsection{Introduction}
+I am writing to express my enthusiastic interest in the Software Engineer at Arm. As a recent graduate with a First-Class Honours degree in Electronics and Computer Engineering from the University of Leeds, I am eager to apply my skills and knowledge to contribute to Arm's innovative work. The opportunity to work with Arm and influence the direction of future Arm technology is incredibly exciting to me. \\
+\cvsection{Why Me?}
+I am an ideal candidate for the Software Engineer role at Arm due to my extensive experience and passion for creating frictionless developer experiences. My background in Electronic \& Computer Engineering, coupled with my practical experience in software development, aligns perfectly with Arm's mission to make software development on the Arm architecture simple and intuitive. \\
+\medskip
+My proficiency in TypeScript, demonstrated through my work as a Frontend Developer at Velz Travel, where I directed the frontend of a travel web app using Next.js and React.js, directly addresses your requirement for TypeScript skills. Additionally, my experience with C++, C\#, and Python during my placement year at Johnson Controls R\&D department showcases my versatility across multiple programming languages, which is crucial for tackling the diverse set of developer challenges in your IDE team. \\
+\medskip
+My project experience, particularly in developing MCPP (a high-performance C++ library for numerical computation) and TBot (a machine learning stocks trading bot), demonstrates my ability to work with cutting-edge technologies and concepts. These projects required me to implement CI/CD pipelines, utilize Docker, and work with various tools and frameworks, aligning well with Arm's dynamic environment and use of diverse technologies. \\
+\medskip
+Furthermore, my experience in managing teams, such as leading 5 engineers in the Robot Fight League and 10 interns at Johnson Controls, showcases my ability to collaborate effectively and form productive relationships with diverse team members. This skill is essential for the collaborative environment at Arm, where magnificent work comes from teamwork.
+My commitment to quality is evident in my consistent use of automated testing, code review, and continuous integration across various projects. This aligns perfectly with Arm's dedication to engineering excellence and robust automated delivery pipelines. \\
+\medskip
+Lastly, my "get things done" attitude, coupled with my passion for shipping high-quality, robust software, makes me an excellent fit for Arm's fast-paced, agile environment. I am eager to contribute my skills and enthusiasm to the Developer Ecosystems group at Arm, helping to create the next generation of A-Class development tools and fostering a thriving developer ecosystem. \\
+\cvsection{Why Arm?}
+AArm's leadership in semiconductor design and software development makes it an exciting prospect for me. The Developer Ecosystems group's mission to simplify development on Arm architecture aligns perfectly with my passion for creating seamless developer experiences. The opportunity to work on diverse technical challenges across multiple platforms, utilizing a range of technologies from TypeScript to WebAssembly, is intellectually stimulating. Arm's collaborative environment and commitment to engineering excellence through rigorous testing and continuous integration resonate with my own work ethic. The dynamic nature of the role, offering chances to tackle new challenges and grow professionally, is particularly appealing. Joining Arm would allow me to contribute to world-class technology while continuously expanding my skills. I'm excited about the prospect of being part of Arm's mission to create technology that transforms industries and enriches lives. \\
+\cvsection{Conclusion}
+Thank you for considering my application. I look forward to the possibility of speaking with you further about this exciting opportunity and how I can contribute to Arm's continued success in pushing the boundaries.
+
+% Engineering and Discrete Mathematics | Cloud and Parallel computing | Electronics and Circuit analysis | Communications and Signals | Networking and Cybersecurity | User interface and Compiler Design | Microprocessors and Embedded systems | Autodesk AutoCAD | Advanced Physics and Math
+% \end{itemize}
+% \tightdivider
+
+% \cveducation{Foundation in Engineering and Computing}{\href{https://www.leedsisc.com/our-courses/international-foundation-year/science-engineering-computing}{University of Leeds (LISC)}}{Sept 2020 -- June 2020}{93\%}
+
+% \begin{itemize}
+% \item Advanced Physics and Math
+% \item Autodesk AutoCAD
+% \end{itemize}
+% \tightdivider
+% \cvevent{IB Science certificate}{\href{http://cambridge.edu.jo/}{Cambridge High School}}{Sept 2017 -- June 2019 \quad \faCheckSquare \ \ 40/42}{}
+
+% \begin{itemize}
+% \item Physics and Math
+% \item Languages and Economics
+% \end{itemize}
+\end{paracol}
+
+
+\end{document}

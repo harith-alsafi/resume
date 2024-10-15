@@ -1,0 +1,4 @@
+- add aws experience
+- mention full stack 
+- add how u re up improves work flow in engineers for johnson controls
+- how scripts help in automation for It adminsitrator

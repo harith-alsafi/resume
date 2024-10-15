@@ -1,0 +1,501 @@
+%%%%%%%%%%%%%%%%%
+% This is an sample CV template created using altacv.cls
+% (v1.2, 11 February 2020) written by LianTze Lim (liantze@gmail.com). Now compiles with pdfLaTeX, XeLaTeX and LuaLaTeX.
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.bb
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% If you need to pass whatever options to xcolor
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+%% If you are using \orcid or academicons
+%% icons, make sure you have the academicons
+%% option here, and compile with XeLaTeX
+%% or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[11pt,a4paper,ragged2e]{altacv}
+
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages.
+%% See http://texdoc.net/pkg/fontawesome and http://texdoc.net/pkg/academicons for full list of symbols. You MUST compile with XeLaTeX or LuaLaTeX if you want to use academicons.
+
+% Change the page layout if you need to
+\geometry{left=0.7cm,right=0.7cm,top=0.7cm,bottom=0.7cm,columnsep=1.2cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Lato}
+\else
+  % If using pdflatex:
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[default]{lato}
+\fi
+\usepackage{hyperref}
+% Change the colours if you want to
+\definecolor{Mulberry}{HTML}{72243D}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\definecolor{White}{HTML}{FFFFFF}
+\definecolor{Black}{HTML}{000000}
+\colorlet{heading}{Black}
+\colorlet{accent}{Black}
+\colorlet{emphasis}{Black}
+\colorlet{body}{Black}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+\begin{document}
+\name{Harith Al-Safi}
+\tagline{Electronic \& Computer Engineer | Software Developer}
+\location{Leeds, UK}
+\email{\href{mailto:harith.alsafi@gmail.com}{harith.alsafi@gmail.com}}
+\phone{\href{tel:+447444585915}{+447444585915}}
+\homepage{\href{https://harith.io/}{https://harith.io/}}
+\linkedin{\href{https://www.linkedin.com/in/harith-al-safi}{linkedin.com/in/harith-al-safi}}
+\github{\href{https://www.github.com/harith-alsafi}{github.com/harith-alsafi}}
+
+\makecvheader
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+%% Set the left/right column width ratio to 6:4.
+\columnratio{0.5}
+
+% Start a 2-column paracol. Both the left and right columns will automatically
+% break across pages if things get too long.
+\begin{paracol}{1}
+\smallskip
+\cvsection{\faBlackTie \, About me}
+
+An engineer with great enthusiasm towards data science and Artificial Intelligence. Some of my hobbies are working out, trading and investment. A deterministic outlook characterize my approach to tackling challenges.\smallskip
+
+
+\cvsection{\faBriefcase \, Experience}
+
+\cvevent{Robot Engineer}{Robot Fight League}{Dec 2023 - Mar 2024 (4 Months)}{Leeds, UK}
+\begin{itemize}
+\item Designed a 3D CAD for robot fight league using Solidworks, Blender and Jira for project management
+\item Implemented a control system using Arduino and C++ for the robot's movement, sensors and pnuematic system
+% \item Built the robot with 3D printing, metal cutting and soldering for the electronics
+\item Tested object detection and tracking using OpenCV and Python for the robot's vision system
+\item Managed a team of 5 engineers to develop the robot and compete in the league ending up 1\textsuperscript{st} place
+\end{itemize}
+\tightdivider
+
+\cvevent{Frontend Developer}{Velz Travel}{Aug 2023 - Nov 2023 (4 Months)}{Remote}
+\begin{itemize}
+\item Directed the frontend of a travel web app for a startup built with Next.js, React.js and Typescript
+\item Developed user interface using Material UI following Figma design guidelines and business logic using Node.js
+\item Collaborated with developers using Jira and Git whilst working on Java Springboot with PostgreSQL and Docker
+% \item Conducted valuable tests of AI implementation using NLP and LLM's of the itinerary suggestion feature
+\item Delivered app through CI/CD, agile development, unit testing with 93\% coverage and AWS deployment
+\end{itemize}
+\tightdivider
+
+\cvevent{Software Engineer (Placement Year)}{Johnson Controls}{July 2022 - July 2023 (12 Months)}{London UK}
+\begin{itemize}
+\item Administered C \textbackslash C++ projects while fixing bugs, adding features, refactoring and migrating 90\% of codebase to C\#
+\item Developed C\# .NET libraries for fire detection simulations and data analysis improving operations by 32\%
+\item Collaborated on an analytics web dashboard with React.js for predictive maintenance with dev ops and CI/CD
+\item Invented a custom scripting language with a compiler for C\# app increasing development productivity by 40\%
+\item Maintained Python automation scripts for automated builds of .NET applications and processing data with Azure
+\item Managed a team of 10 interns to create a business plan and ended up placing  2\textsuperscript{nd} amongst the whole company
+\end{itemize}
+\tightdivider
+
+% \cvevent{Machine Learning Engineer Freelance}{Paperound}{Dec 2021 - Mar 2022 (4 Months)}{Leeds UK}
+% \cvevent{C++ Developer Freelance}{Paperound}{Dec 2021 - Mar 2022 (4 Months)}{Leeds UK}
+\cvevent{Software Developer Freelance}{Paperound}{Dec 2021 - Mar 2022 (4 Months)}{Leeds UK}
+\begin{itemize}
+\item Developed full stack web app using React.js, Next.js, MongoDB, auth0 for user authentication and REST API
+% \item Developed a cross platform mobile notes app using Flutter and Firebase alongside a recommendation system
+% \item Developed signal processing filters and modulators using SciPy Python and Fourier analysis for RF signals 
+% \item Applied data visualization using Python Matplotlib to present analytical insights to non-technical stakeholders
+\item Created natural language proccessing applications using LLM's and Python for sentiment analysis and chatbots
+% \item Developed object detection and tracking using OpenCV and Python for detecting planets in telescope images
+% \item Utilized Python, TensorFlow, and Scikit-learn to build, train, and evaluate neural networks
+\item Built and trained a reinforcement neural network using TensorFlow, KerasRL for predicting stock prices
+\item  Developed Serverless REST API with C \# and Azure for IoT Sensors and data analytics using ASP.NET 
+% \item Developed distributed system using C++ OpenMP, OpenCL and CUDA for parallel statistical computing
+\item Developed low level ARM embedded systems with C whilst using memory allocation and register programming
+% \item Engineered a desktop QT application using C++ and Cmake for video analysis and processing
+\item Engineered a high performance C++ linear algebra library for data science through Jenkins, Docker and Cmake
+\end{itemize}
+\tightdivider
+
+% \cvevent{Forex Day Trader}{ICMarkets FX}{Mar 2021 - Nov 2021 (9 Months)}{Leeds UK}
+% \begin{itemize}
+% \item Researched financial factors such as interest rates, GDP, inflation, and employment to predict market trends
+% \item Conducted quantitative research on statistical methods and their applications in financial markets.
+% \item Designed a trading strategy using technical, fundamental analysis whilst simulating risk assesment with Python
+% \item Traded indices, commodities and forex pairs using leverage and margin with a risk management strategy 
+% \item Engineered a trading algorithm using Python and Quantitave Analysis for automated trading and backtesting
+% \end{itemize}
+% \tightdivider
+
+\cvevent{IT administrator}{Mesopotamia Group}{Jun 2020 - Mar 2021 (10 Months)}{Amman Jordan}
+\begin{itemize}
+\item Collaborated with a team to build a local file server on Ubuntu built using Apache and Nextcloud
+\item Administered the server using Bash, Python and Nmap with SSH tunneling and port forwarding
+\item Engineered a load balancer using MPI and C to distribute traffic between servers increasing availability by 34\%
+\item Analyzed the network data logs using Python to predict and prevent cyber attacks
+\item Implemented Linux networking and protocols using IP addressing and routing for cloud hosting
+\end{itemize}
+
+% \switchcolumn
+\medskip
+
+\cvsection{ \faBook \, Education}
+\cveducation{BEng (Hons) in Electronics and Computer}{University of Leeds (UoL)}{Sept 2019 - June 2024}{First-Class Honors}
+\begin{itemize} 
+\item Embedded systems, Microprocessors, FPGA, Circuit Analysis, Signal processing, Networking,  Compiler design
+\item Cloud and Parallel computing, Secure and Distributed systems, Cybersecurity, Software Engineering, Research
+\end{itemize}
+
+% Engineering and Discrete Mathematics | Cloud and Parallel computing | Electronics and Circuit analysis | Communications and Signals | Networking and Cybersecurity | User interface and Compiler Design | Microprocessors and Embedded systems | Autodesk AutoCAD | Advanced Physics and Math
+% \end{itemize}
+% \tightdivider
+
+% \cveducation{Foundation in Engineering and Computing}{\href{https://www.leedsisc.com/our-courses/international-foundation-year/science-engineering-computing}{University of Leeds (LISC)}}{Sept 2020 -- June 2020}{93\%}
+
+% \begin{itemize}
+% \item Advanced Physics and Math
+% \item Autodesk AutoCAD
+% \end{itemize}
+% \tightdivider
+% \cvevent{IB Science certificate}{\href{http://cambridge.edu.jo/}{Cambridge High School}}{Sept 2017 -- June 2019 \quad \faCheckSquare \ \ 40/42}{}
+
+% \begin{itemize}
+% \item Physics and Math
+% \item Languages and Economics
+% \end{itemize}
+\medskip
+
+% //TODO: add skills required by emplooyers not stupid arm keil or dome shit 
+\cvsection{\faUser \, Skills and Languages}
+\textbf{Technical}: 
+\cvtag{C \textbackslash \ C++}
+\cvtag{Python}
+\cvtag{Java}
+\cvtag{C\#}
+\cvtag{JavaScript} 
+% \cvtag{HTML5}
+% \cvtag{CSS} 
+% \cvtag{Typescript} 
+% \cvtag{Dart} 
+% \cvtag{Matlab}
+% \cvtag{REST API}
+% \cvtag{CI \textbackslash \ CD}
+% \cvtag{DevOps} 
+% \cvtag{SQL} 
+% \cvtag{Bash} 
+% \cvtag{PowerShell} 
+% \cvtag{Verilog}
+% \cvtag{Assembly} 
+% \cvtag{Latex}  
+\cvtag{Linux}
+\cvtag{Docker}
+\cvtag{Azure}
+\cvtag{AWS}
+\cvtag{Jira}
+\cvtag{Git}
+\cvtag{Jenkins}
+\cvtag{Terraforms}
+\cvtag{Kubernetes}
+% \cvtag{IBM Cloud}
+% \cvtag{Firebase}
+% \cvtag{GCP}
+% \cvtag{CI/CD}
+\cvtag{SQLite}
+\cvtag{MySQL}
+\cvtag{MongoDB}
+\cvtag{PostgreSQL}
+% \cvtag{.NET}
+\cvtag{.NET WPF}
+\cvtag{JavaFx}
+\cvtag{React Js}
+\cvtag{QT Framework}
+\cvtag{Flutter}
+% \cvtag{Next.js}
+% \cvtag{Tailwind CSS}
+% \cvtag{Material UI}
+% \cvtag{Chakra UI}
+% \cvtag{Qt}
+% \cvtag{Django}
+\cvtag{Flask}
+% \cvtag{Express.js}
+\cvtag{Springboot}
+\cvtag{ASP.NET}
+\cvtag{NumPy}
+\cvtag{KerasRL}
+\cvtag{Matplotlib}
+\cvtag{Pytorch}
+\cvtag{SciPy}
+\cvtag{TensorFlow}
+\cvtag{Pandas}
+% \cvtag{Scikit-learn}
+\cvtag{OpenCv}
+\cvtag{CMake}
+% \cvtag{Make}
+% \cvtag{Maven}
+\cvtag{Node.js}
+\cvtag{OpenCL}
+\cvtag{OpenGL}
+\cvtag{OpenMP}
+\cvtag{CUDA}
+% \cvtag{Logism}
+% \cvtag {Office Suite} 
+\cvtag{Arm Mbed Os}
+\cvtag{Arm Keil}
+\cvtag{FPGA} 
+\cvtag{Verilog HDL} 
+% \cvtag{Simplicity Studio}
+% \cvtag{Rasberry Pie}
+\cvtag{Arduino} 
+% \cvtag{Multism}
+% \cvtag{Intel Quartus}
+\cvtag{Blender}
+\cvtag{Photshop}
+\cvtag{AutoCAD} \\
+\tightdivider \\
+\textbf{Soft}: 
+\cvtag{Management}
+\cvtag{Leadership}
+% \cvtag{Hard-working}
+\cvtag{Motivated}
+\cvtag{Deterministic}
+\cvtag{Communication}
+\cvtag{Problem solver} \\
+% \vspace{2.5mm}
+\tightdivider \\
+
+
+% \cvsection{\faLanguage \, Languages}
+\textbf{Languages}:  \textbf{Arabic} (Full Professional) \hfill \textbf{English} (Full Professional) \hfill \textbf{Spanish} (Elementary)
+
+%% spacing consistent... sorry. Use \smallskip, \medskip,
+%% \bigskip, \vpsace etc to make ajustments.
+\medskip
+
+\cvsection{\faTasks \, Projects}
+
+% \cvevent{JPS}{}{Oct 2022 - Jul 2023 \quad \faMapPin \ \ JCI}{}
+% \begin{itemize}
+% \item Re-designed a legacy CLI project to a GUI with C\# .NET WPF using MVVM and multithreaded design
+% \item Invented an object-oriented scripting language with a custom compiler and runtime memory access.
+% \item Integrated SQLite database, Excel I/O features, data analysis tools and serial communication protocols 
+% \item Communicated with engineers to develop and manage a product life cycle on the app's design and features
+% \end{itemize}
+
+% \tightdivider
+
+\cvevent{MCPP: High Performance C++ Library for Numerical Computation}{}{Apr 2021 - Oct 2022 \quad \faMapPin \ \ Personal}{}
+\begin{itemize}
+\item Created a cross-platform math library for C++ used for matrix algebra, statistics and machine learning.
+\item Engineered with CI/CD using Jenkins, unit tests, Docker, Cmake, Doxygen and Git for version control
+\item Improved performance by 40\% using parallel computing with OpenMP, OpenCL and CUDA
+\end{itemize}
+
+\tightdivider
+
+
+% \cvevent{Jobhive}{}{Sept 2023 - Ongoing \quad \faMapPin \ \ Personal}{}
+% \begin{itemize}
+% \item Developed a fullstack web app with Nextjs, Reactjs, Chakra-ui and Typescript managing frontend and backend.
+% \item Engineered a monolothic backend REST API routing and endpoints with CRUD Operations using nextjs 
+% \item Collaborated with a team using Jira issues and git to sustain clean, maintainable and efficient code
+% \item Developed project management skills from designing the app in figma to implementing it 
+% \end{itemize}
+
+% \tightdivider
+
+
+% \cvevent{NotePad}{}{Oct 2022 - Jan 2023 \quad \faMapPin \ \ Personal}{}
+% \begin{itemize}
+% \item Programmed a cross-platform note app with Flutter and Dart
+% \item Established backend using cloud authentication services with Firebase and storage with SQL CRUD 
+% \item Using the BLoC pattern for state management and the Provider package for dependency injection
+% \item Used KerasRL library for reinforcement learning with human feedback to predict user's next note
+% \end{itemize}
+% \tightdivider
+
+% \cvevent{Home Automation Embedded System}{}{Jan 2021 - May 2021 \quad \faMapPin \ \ UoL}{}
+% \begin{itemize}
+% \item Engineered circuits for I/O functionality using data sensors, potentiometers, buttons and resistors.
+% \item Programmed control system using C++ for home appliances such as temperature, air conditioning and lighting 
+% \item Developed menu oriented user interface using LCD display and joystick deployed on STM32 board ARM MCU
+% \end{itemize}
+
+\cvevent{TBot: Machine Learning Stocks Trading Bot}{}{Apr 2021 - Oct 2021 \quad \faMapPin \ \ Personal}{}
+\begin{itemize}
+\item Developed gradient boosting machine learning model using Python and Scikit-learn for stock prediction
+\item Anlayzed and processed data using Pandas, Numpy and Scipy for training and testing the model 
+\item Backtested the model using historical data and simulated trading using Python and Matplotlib
+\item Developed a REST API and a user interface to interact with the bot using AWS, Flask and PyQT
+\end{itemize}
+
+\tightdivider
+
+
+\cvevent{Vega: LLM Chat Web App for IoT Circuits}{}{Oct 2023 - Jun 2024 \quad \faMapPin \ \ UoL}{}
+\begin{itemize}
+\item Developed a full stack chat bot web application with Typescript, React.js, Next.js, TailwindCSS and NoSQL
+\item Programmed natural language processing algorithms using LLMs to interpet and execute user messages 
+\item Developed a Python Flask REST Server with SQLite on the Raspberry Pi to communicate with the chat bot
+\item Engineered a circuit with sensors, fans, LCD and buttons to execute the user's commands from the chat bot 
+\end{itemize}
+
+\medskip
+
+\cvsection{\faCertificate \, Professional Courses}
+\cvevent{\href{https://coursera.org/share/04cc7aedb131d2ec5e627c5b6943365b}{Data Analysis with Python}}{}{Oct 2021}{}
+\begin{itemize}
+\item Develop Python code for cleaning and preparing data for analysis 
+\item Perform exploratory data analysis and analytical techniques to datasets using Pandas, Numpy and Scipy
+\item Manipulate data using dataframes, understand data distribution, perform correlation and create data pipelines
+\item Build and evaluate regression models using machine learning scikit-learn for prediction and decision making
+\end{itemize}
+\tightdivider
+
+\cvevent{\href{https://coursera.org/share/e3d5bbb39e72fa4deb5730f2d48c8979}{Databases and SQL for Data Science with Python}}{}{Sept 2021}{}
+\begin{itemize}
+\item Analyze data within a relational database on the cloud using IBM DB2, SQL, Python
+\item Construct SQL CRUD operations and compose views, transactions, stored procedures and joins.
+\end{itemize}
+\tightdivider
+
+\cvevent{\href{https://coursera.org/share/6878977db8f2fbc30ac46f61dced356a}{Python for Data Science, AI \& Development}}{}{Aug 2021}{}
+\begin{itemize}
+\item Demonstrate proficiency in using Python libraries such as Pandas, Numpy, and Beautiful Soup
+\item Access web data using APIs and web scraping from Python in Jupyter Notebooks.
+\end{itemize}
+% \tightdivider
+
+% \cvevent{\href{https://coursera.org/share/d8a5a903819c5c1630966c8f31e10d2f}{Data Science Methodology}}{}{Aug 2021}{}
+% \begin{itemize}
+% \item Apply the six stages in the Cross-Industry Process for Data Mining (CRISP-DM) to analyze a case study.
+% \item Evaluate which analytic model is appropriate among predictive, descriptive, and classification models used.
+% \end{itemize}
+% \tightdivider
+\medskip
+
+
+% \cvevent{\href{https://coursera.org/share/93d4419e7af771becc207723b671843a}{Tools for Data Science}}{}{Jul 2021}{}
+% \begin{itemize}
+% \item Utilize R, Python using RStudio and Jupyter Studio
+% \item IBM tools such as IBM Watson Studio
+% \end{itemize}
+% \tightdivider
+
+% \cvevent{\href{https://coursera.org/share/a785833336cd1025863f958a616159ca}{What is Data Science?}}{}{Jun 2021}{}
+% \begin{itemize}
+% \item Introduction to data science and big data
+% \item Structure of data science reports
+% \end{itemize}
+% \tightdivider
+
+% \cvevent{\href{https://www.coursera.org/account/accomplishments/verify/93PY64WDHCXY?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course}{Matrix Algebra for Engineers}}{}{Nov 2020}{}
+% \begin{itemize}
+% \item Basics of matrix algebra and properties of matrices
+% \item Linear algebra and its use in statistical analysis
+% \end{itemize}
+
+
+
+\cvsection{\faUsers \, Extracurricular}
+\cvevent{AI Agent hackathon}{Lablab}{Mar 2023}{Remote} \\
+\vspace{-2.8mm}
+\tightdivider \\
+\cvevent{Web Developer hackathon}{Royal Hackaway v6}{Feb 2023}{London, UK} \\
+\vspace{-2.8mm}
+\tightdivider \\
+% \cvevent{Game Developer hackathon}{Pygames hackathon Microsoft}{Nov 2021 - Feb 2022}{Remote} \\
+% \vspace{-2.8mm}
+% \tightdivider \\
+\cvevent{Event Coordinator Volunteer}{IEE RAS ICRA}{Jan - 2023}{London, UK} \\
+% \vspace{-2.8mm}
+% \tightdivider \\
+% \cvevent{AI Agent hackathon}{Lablab}{Nov 2021 -- Feb 2022}{Remote} 
+% \cvsection{\faBookmark \, Publications}
+
+% \cvsection{\faBookmark \, References}
+
+% \cvsection{\faBookmark \, Awards}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% \divider
+
+% \cvevent{MEng\ in Artficial Intelligence}{University of Southampton}{Sept 2023 -- June 2024}{}
+
+% \divider
+
+% \cvsection{Referees}
+
+% % \cvref{name}{email}{mailing address}
+% \cvref{Prof.\ Alpha Beta}{Institute}{a.beta@university.edu}
+% {Address Line 1\\Address line 2}
+
+% \divider
+
+% \cvref{Prof.\ Gamma Delta}{Institute}{g.delta@university.edu}
+% {Address Line 1\\Address line 2}
+
+
+% \switchcolumn
+% \vspace{100mm}
+% \cvsection{Publications}
+
+% \nocite{*}
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal Articles}},type=article]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faGroup}{Conference Proceedings}},type=inproceedings]
+
+% %% Switch to the right column. This will now automatically move to the second
+% %% page if the content is too long.
+
+\end{paracol}
+
+
+\end{document}
