@@ -2,3 +2,7 @@
 - mention full stack 
 - add how u re up improves work flow in engineers for johnson controls
 - how scripts help in automation for It adminsitrator
+- Add statistics on bt on how we improved performance 
+- Move publication up
+- Change about me
+- Ask gpt for criticism 
