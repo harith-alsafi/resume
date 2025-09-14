@@ -211,7 +211,7 @@
     \begin{minipage}{\dimexpr\linewidth}%
     \raggedright\color{emphasis}%
     {\Huge\bfseries{\@name}\hfill}
-    {\footnotesize\bfseries \getlocation \getphone \getemail \gethomepage \\}
+    {\footnotesize\bfseries \getlocation \getemail \gethomepage \\}
     \medskip
     {\large\bfseries\color{accent}\@tagline\hfill}
     {\footnotesize\bfseries \getgithub \getlinkedin \\}
@@ -277,7 +277,16 @@
 }
 
 \newcommand{\cvtag}[1]{%
-  \tikz[baseline]\node[anchor=base,draw=body!30,rounded corners,inner xsep=1ex,inner ysep =0.75ex,text height=1.5ex,text depth=.25ex]{#1};
+  \tikz[baseline]\node[
+    anchor=base,
+    draw=black!40,       % darker grey border
+    fill=black!5,        % very light grey background
+    rounded corners,
+    inner xsep=1ex,
+    inner ysep=0.75ex,
+    text height=1.5ex,
+    text depth=.25ex
+  ]{#1};
 }
 
 \newcommand{\langtag}[1]{%
