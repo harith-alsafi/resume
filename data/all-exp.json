@@ -1,0 +1,1400 @@
+[
+    {
+        "profileUrl": "https://linkedin.com/in/harith-al-safi",
+        "basic_info": {
+            "fullname": "Harith Al-Safi",
+            "first_name": "Harith",
+            "last_name": "Al-Safi",
+            "headline": "Full Stack Engineer | Machine Learning Engineer ",
+            "public_identifier": "harith-al-safi",
+            "profile_url": "https://linkedin.com/in/harith-al-safi",
+            "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQGB3OP3rlsmtQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1675373177568?e=1766620800&v=beta&t=A2Cqxiz6tBNZfRZFbvESGsoHZCQZw7RTjMMkwmy6NGo",
+            "about": "I consider myself as hard working and a passionate person when it comes to my career. As I have always had an interest in the computer world with respect to the hardware side and the software side. Some of my hobbies are bodybuilding, soccer and programming. I am a big enthusiast of linux and the open source community as I mostly use it for all of my engineering requirements. Am also a big fan of python as I mostly use it for general scripting and mathematical programming.",
+            "location": {
+                "country": "United Kingdom",
+                "city": "Manchester, England",
+                "full": "Manchester, England, United Kingdom",
+                "country_code": "GB"
+            },
+            "creator_hashtags": [],
+            "is_creator": false,
+            "is_influencer": false,
+            "is_premium": false,
+            "open_to_work": false,
+            "created_timestamp": 1581463701433,
+            "show_follower_count": false,
+            "background_picture_url": "https://media.licdn.com/dms/image/v2/C4E16AQHpKX8W_8U4dQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1619145014799?e=1766620800&v=beta&t=NYY__CenczH8O2RPt_16Vd3rPvvoz0ZMnF25ZSCwJQc",
+            "urn": "ACoAAC9P7scB1yv1hA-ZjtKBAxcuNQvmvu08uhI",
+            "follower_count": 1256,
+            "connection_count": 1256,
+            "current_company": "BT Group",
+            "current_company_urn": "1182",
+            "current_company_url": "https://www.linkedin.com/company/bt",
+            "top_skills": [],
+            "email": null
+        },
+        "experience": [
+            {
+                "title": "Full Stack Engineer",
+                "company": "BT Group",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv4821laaoOg/company-logo_400_400/B4EZp4D7mXIIAY-/0/1762950888206/bt_logo?e=1766620800&v=beta&t=nQgrZvilAHJ3_pm-tKzm37_aLxC7MD_Qz2rNMxSLiXY",
+                "duration": "Sep 2024 - Present · 1 yr 4 mos",
+                "location": "",
+                "employment_type": "",
+                "company_linkedin_url": "https://www.linkedin.com/company/1182/",
+                "description": [
+                    "Delivered 5 Kafka-based Spring Boot microservices with MongoDB/PostgreSQL, Netflix Conductor, and Pulumi",
+                    "Mentored and examined 5+ apprentices on agile development with Java Spring Boot and AWS Lambda",
+                    "Achieved 30% AWS cost reduction by automating infrastructure with TypeScript and optimizing ECS cluster",
+                    "Re-architecture Spring Boot APIs with JWT, Azure AD, and role-based access achieving enterprise grade security",
+                    "Led JavaScript to TypeScript migration of 5K+ lines, adding Cypress testing and OpenAPI to TypeScript code gen"
+                ],
+                "start_date": {
+                    "month": "Sep",
+                    "year": 2024
+                },
+                "end_date": {
+                    "year": null,
+                    "month": null
+                },
+                "is_current": true,
+                "skills": []
+            },
+            {
+                "title": "Regional Lead",
+                "company": "BT Group",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv4821laaoOg/company-logo_400_400/B4EZp4D7mXIIAY-/0/1762950888206/bt_logo?e=1766620800&v=beta&t=nQgrZvilAHJ3_pm-tKzm37_aLxC7MD_Qz2rNMxSLiXY",
+                "duration": "Nov 2024 - Aug 2025 · 10 mos",
+                "location": "On-site",
+                "employment_type": "",
+                "company_linkedin_url": "https://www.linkedin.com/company/1182/",
+                "description": [
+                    "Managed regional Graduate Network organizing and coordinating monthly tech talks for 30+ attendees",
+                    "Responsible for managing the graduates and emerging talents at BT Group."
+                ],
+                "start_date": {
+                    "month": "Nov",
+                    "year": 2024
+                },
+                "end_date": {
+                    "month": "Aug",
+                    "year": 2025
+                },
+                "is_current": false,
+                "skills": []
+            },
+            {
+                "title": "Course Representative",
+                "company": "University of Leeds",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE0CKeyyA6TaQ/company-logo_400_400/company-logo_400_400/0/1631327098783?e=1766620800&v=beta&t=KZHyq97AnXqBatTA3MUIgC8yBVKe3nV_0pa8lg5sK0A",
+                "duration": "Sep 2023 - Jun 2024 · 10 mos",
+                "location": "",
+                "employment_type": "",
+                "company_linkedin_url": "https://www.linkedin.com/company/7244/",
+                "description": [
+                    "Course represntative of the Electronics and Computer Engineering",
+                    "Assisted students to deliver useful feedback to module leaders",
+                    "Managed student questions about course material and so on",
+                    "Created a community welcoming all level 3 Electronics and Computer Engineering students"
+                ],
+                "start_date": {
+                    "month": "Sep",
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": "Jun",
+                    "year": 2024
+                },
+                "is_current": false,
+                "skills": [
+                    "Communication",
+                    "Team Leadership"
+                ]
+            },
+            {
+                "title": "Robotics Engineer",
+                "company": "University of Leeds",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE0CKeyyA6TaQ/company-logo_400_400/company-logo_400_400/0/1631327098783?e=1766620800&v=beta&t=KZHyq97AnXqBatTA3MUIgC8yBVKe3nV_0pa8lg5sK0A",
+                "duration": "Dec 2023 - Mar 2024 · 4 mos",
+                "location": "",
+                "employment_type": "",
+                "company_linkedin_url": "https://www.linkedin.com/company/7244/",
+                "description": [
+                    "Designed a 3D CAD for robot ﬁght league using Solidworks and Blender and Jira for project management",
+                    "Implemented a control system using Arduino and C++ for the robot’s movement, sensors and pnuematic system",
+                    "Built the robot with 3D printing, metal cutting and soldering for the electronics",
+                    "Tested object detection and tracking using OpenCV and Python for the robot’s vision system",
+                    "Managed a team of 5 engineers to develop the robot and compete in the league ending up 1st place"
+                ],
+                "start_date": {
+                    "month": "Dec",
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": "Mar",
+                    "year": 2024
+                },
+                "is_current": false,
+                "skills": []
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "Velz Travel",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQF6sqA-UNeCdw/company-logo_400_400/company-logo_400_400/0/1684425152374/velz_logo?e=1766620800&v=beta&t=XBEKYp0aNsvlaT4xpayOdxA0dIdty1TKjqirXT1QVMY",
+                "duration": "Aug 2023 - Nov 2023 · 4 mos",
+                "location": "Greater London, England, United Kingdom",
+                "employment_type": "Contract",
+                "company_linkedin_url": "https://www.linkedin.com/company/71188888/",
+                "description": [
+                    "Directed the frontend of a travel web app for a startup built with Next.js, React.js and Typescript",
+                    "Developed user interface using Material UI following Figma design guidelines and business logic using Nodejs",
+                    "Collaborated with developers using Jira whilst working on Java Springboot backend with PostgreSQL and Docker",
+                    "Conducted valuable tests of AI implementation using NLP and LLM's of the itinerary suggestion feature",
+                    "Delivered app through CI/CD, agile development, automated testing with 93\\% coverage and web deployment"
+                ],
+                "start_date": {
+                    "month": "Aug",
+                    "year": 2023
+                },
+                "end_date": {
+                    "month": "Nov",
+                    "year": 2023
+                },
+                "is_current": false,
+                "skills": [
+                    "Tailwind CSS",
+                    "Next.js",
+                    "React.js"
+                ]
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Johnson Controls",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQFLnizgdgpDFA/company-logo_400_400/company-logo_400_400/0/1728672007366/johnson_controls_logo?e=1766620800&v=beta&t=aQcSmktz1nT-aekgPm6ZvVDtiVAi4-n5mckCBhPfcgg",
+                "duration": "Jul 2022 - Jul 2023 · 1 yr 1 mo",
+                "location": "Greater London, England, United Kingdom",
+                "employment_type": "Full-time",
+                "company_linkedin_url": "https://www.linkedin.com/company/2247/",
+                "description": [
+                    "Administered legacy C/C++ projects such as a project named SEE, fixing bugs and adding new features, demonstrating proficiency in C/C++ programming.",
+                    "Proposed and reengineered the legacy software SEE into a new graphical interface named JPS using C# .NET WPF, showcasing innovative thinking and project management skills.",
+                    "Developed a C# .NET library for serial data analysis generation in embedded system programs, showcasing expertise in C# development",
+                    "Invented a new scripting language called ALGO derived from C# to accelerate the development process of fire detection algorithms, demonstrating creativity and problem-solving skills..",
+                    "Designed an analytics web dashboard using React JS whilst leveraging predictive AI for security and safety applications.",
+                    "Led a team of 10 interns to end up placing in the top 3 in the Future Leaders competition, highlighting leadership and teamwork abilities.",
+                    "Participated in company-wide competitions, reaching the semifinals in the Tech challenge program, highlighting strong presentation and strategic thinking abilities."
+                ],
+                "start_date": {
+                    "month": "Jul",
+                    "year": 2022
+                },
+                "end_date": {
+                    "month": "Jul",
+                    "year": 2023
+                },
+                "is_current": false,
+                "skills": [
+                    "Project Management",
+                    "C++",
+                    "C#",
+                    "Powershell",
+                    "Python (Programming Language)",
+                    "Computer Science",
+                    "Team Leadership",
+                    "Microsoft Office",
+                    "Software Development",
+                    "Git"
+                ]
+            },
+            {
+                "title": "Freelance Machine Learning Engineer",
+                "company": "Paperound",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEM_mEl2nOpgA/company-logo_400_400/company-logo_400_400/0/1630554213096/paperound_logo?e=1766620800&v=beta&t=5UNuk6BB1ukN7teKxw2aJkCDCmayFYmXVT0UuR2jHiU",
+                "duration": "Dec 2021 - Mar 2022 · 4 mos",
+                "location": "United Kingdom",
+                "employment_type": "Freelance",
+                "company_linkedin_url": "https://www.linkedin.com/company/73468986/",
+                "description": [
+                    "Applied data visualization using Python Matplotlib to present analytical insights to non-technical stakeholders",
+                    "Created natural language proccessing applications using LLM's and Python for sentiment analysis",
+                    "Built and trained a reinforcement neural network using TensorFlow, KerasRL for predicting stock prices",
+                    "Engineered a high performance C++ linear algebra library for data science through Jenkins, Docker and Cmake",
+                    "Developed low level ARM embedded systems with C whilst using memory allocation and register programming",
+                    "Engineered a high performance C++ linear algebra library for data science through Jenkins, Docker and Cmake",
+                    "Created a desktop application using C++ and QT for video analysis and processing"
+                ],
+                "start_date": {
+                    "month": "Dec",
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": "Mar",
+                    "year": 2022
+                },
+                "is_current": false,
+                "skills": [
+                    "C (Programming Language)",
+                    "Python (Programming Language)",
+                    "Computer Science",
+                    "Linux",
+                    "Software Development"
+                ]
+            },
+            {
+                "title": "Day Trader",
+                "company": "ICMarkets FX",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQFCKScM-jGTGg/company-logo_400_400/B4DZnmppZDGkAY-/0/1760511301672/delete_company_logo?e=1766620800&v=beta&t=0_83ProToqJs2IIWEzcqYAyl4PEM0VHI1otSpXpYXqo",
+                "duration": "Mar 2021 - Nov 2021 · 9 mos",
+                "location": "Leeds, England, United Kingdom",
+                "employment_type": "Self-employed",
+                "company_linkedin_url": "https://www.linkedin.com/company/10966411/",
+                "description": [
+                    "Researched financial factors such as interest rates, GDP, inflation, and employment to predict market trends",
+                    "Conducted quantitative research on statistical methods and their applications in financial markets.",
+                    "Designed a trading strategy using technical, fundamental analysis whilst simulating risk assesment with Python",
+                    "Traded indices, commodities and forex pairs using leverage and margin with a risk management strategy",
+                    "Engineered a trading algorithm using Python and Quantitave Analysis for automated trading and backtesting"
+                ],
+                "start_date": {
+                    "month": "Mar",
+                    "year": 2021
+                },
+                "end_date": {
+                    "month": "Nov",
+                    "year": 2021
+                },
+                "is_current": false,
+                "skills": []
+            },
+            {
+                "title": "Information Technology Administrator",
+                "company": "Mesopotamia Group",
+                "company_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHLIM6utI_dKA/company-logo_400_400/company-logo_400_400/0/1734248206274/alsafiholdingco_logo?e=1766620800&v=beta&t=gwtHLdaZNH83TLSEYpY67ndntMip8Y3Q2FRUhlJL7sM",
+                "duration": "Jun 2020 - Mar 2021 · 10 mos",
+                "location": "Amman, Jordan",
+                "employment_type": "Part-time",
+                "company_linkedin_url": "https://www.linkedin.com/company/12602809/",
+                "description": [
+                    "Collaborated with a team to build a local file server on Ubuntu built using Apache and Nextcloud",
+                    "Administered the server using Bash, Python and Nmap with SSH tunneling and port forwarding",
+                    "Engineered a load balancer using MPI and C to distribute traffic between servers increasing availability by 34\\%",
+                    "Analyzed the network data logs using Python to predict and prevent cyber attacks",
+                    "Implemented Linux networking and protocols using IP addressing and routing for cloud hosting"
+                ],
+                "start_date": {
+                    "month": "Jun",
+                    "year": 2020
+                },
+                "end_date": {
+                    "month": "Mar",
+                    "year": 2021
+                },
+                "is_current": false,
+                "skills": [
+                    "Python (Programming Language)",
+                    "Computer Science",
+                    "Bash",
+                    "Computer Networking",
+                    "Linux",
+                    "Software Development"
+                ]
+            },
+            {
+                "title": "Event Coordinator",
+                "company": "CHSMUN",
+                "company_logo_url": "",
+                "duration": "Sep 2017 - Nov 2017 · 3 mos",
+                "location": "Amman, Jordan",
+                "employment_type": "Full-time",
+                "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=CHSMUN",
+                "description": [
+                    "Organised modern united nation meetings",
+                    "Formalised professional conclusion reports after each meeting with statistical proof on each claim.",
+                    "Initiated researched debates about global issues.",
+                    "Achieved the best delegate status in the form of well researched debates and reports"
+                ],
+                "start_date": {
+                    "month": "Sep",
+                    "year": 2017
+                },
+                "end_date": {
+                    "month": "Nov",
+                    "year": 2017
+                },
+                "is_current": false,
+                "skills": []
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Leeds",
+                "degree": "BEng with Honours, Electronics and Computer Engineering",
+                "degree_name": "BEng with Honours",
+                "field_of_study": "Electronics and Computer Engineering",
+                "duration": "Sep 2020 - Jul 2024",
+                "school_linkedin_url": "https://www.linkedin.com/company/7244/",
+                "description": [
+                    "Embedded systems, Microprocessors, FPGA, Circuit Analysis, Signal processing, Networking, Compiler design",
+                    "Cloud and Parallel computing, Secure and Distributed systems, Cybersecurity, Software Engineering, Research"
+                ],
+                "activities": "",
+                "skills": [
+                    "Software Development",
+                    "Assembly Language",
+                    "Git",
+                    "Digital Electronics",
+                    "Algorithms and Data structure",
+                    "Mathematics",
+                    "Computer Science",
+                    "C++",
+                    "Mbed",
+                    "Digital Signal Processing",
+                    "Embedded Systems",
+                    "Bash",
+                    "Qt Creator",
+                    "Circuit Design",
+                    "Team Leadership",
+                    "Communication",
+                    "Project Management",
+                    "LaTeX",
+                    "Computer Networking",
+                    "Java",
+                    "MATLAB",
+                    "Linux"
+                ],
+                "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE0CKeyyA6TaQ/company-logo_400_400/company-logo_400_400/0/1631327098783?e=1766620800&v=beta&t=KZHyq97AnXqBatTA3MUIgC8yBVKe3nV_0pa8lg5sK0A",
+                "start_date": {
+                    "year": 2020,
+                    "month": "Sep"
+                },
+                "end_date": {
+                    "year": 2024,
+                    "month": "Jul"
+                },
+                "grade": "First Class - 4.0/4.0"
+            },
+            {
+                "school": "University of Leeds",
+                "degree": "Foundation degree, Engineering",
+                "degree_name": "Foundation degree",
+                "field_of_study": "Engineering",
+                "duration": "2019 - 2020",
+                "school_linkedin_url": "https://www.linkedin.com/company/7244/",
+                "description": [
+                    "We took higher level pure and applied mathematics in addition to CAD designs with automobiles. I also took external courses on python, octave and multivariable calculus."
+                ],
+                "activities": "",
+                "skills": [
+                    "Software Development",
+                    "Mathematics",
+                    "Microsoft Office",
+                    "AutoCAD"
+                ],
+                "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE0CKeyyA6TaQ/company-logo_400_400/company-logo_400_400/0/1631327098783?e=1766620800&v=beta&t=KZHyq97AnXqBatTA3MUIgC8yBVKe3nV_0pa8lg5sK0A",
+                "start_date": {
+                    "year": 2019,
+                    "month": null
+                },
+                "end_date": {
+                    "year": 2020,
+                    "month": null
+                },
+                "grade": "93/100"
+            },
+            {
+                "school": "International Baccalaureate",
+                "degree": "High School Diploma, Engineering Science",
+                "degree_name": "High School Diploma",
+                "field_of_study": "Engineering Science",
+                "duration": "2017 - 2019",
+                "school_linkedin_url": "https://www.linkedin.com/company/22614/",
+                "description": [
+                    "Subjects Taken:",
+                    "Math Standard Level",
+                    "English B Standard Level",
+                    "Arabic B Standard Level",
+                    "Physics Higher Level",
+                    "Chemistry Higher Level",
+                    "Economics Standard Level"
+                ],
+                "activities": "CAS activities in addition to extra math courses",
+                "skills": [
+                    "Mathematics",
+                    "Microsoft Office"
+                ],
+                "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQH1trVeMU7kyA/company-logo_400_400/company-logo_400_400/0/1631325578760?e=1766620800&v=beta&t=8KLUm5AsUgxk95fUWKDZ39Hi0kNFyD5ybbQz0joGSsI",
+                "start_date": {
+                    "year": 2017,
+                    "month": null
+                },
+                "end_date": {
+                    "year": 2019,
+                    "month": null
+                },
+                "grade": "40/42"
+            }
+        ],
+        "projects": [
+            {
+                "name": "Cross platform math library in c++",
+                "start_date": "Sep 2021",
+                "end_date": "Present",
+                "description": [
+                    "A cross platform c++ math library with a lot of features for engineers and mathematicians",
+                    "Features:",
+                    "Linear Algebra (Matrix PLU factorisation, Matrix transpose.. etc)",
+                    "Statistical analysis (mean, average, mode .. etc)",
+                    "Differential Calculus (numerical nth order derivative.. etc)",
+                    "Integral Calculus (numerical bound integrals .. etc)",
+                    "Signal analysis (square wave generation, filtering.. etc)",
+                    "Equation solvers (linear and polynomial equations)",
+                    "Vector arithmetic (cross and dot products)"
+                ],
+                "associated_company": "",
+                "company_urn": "",
+                "skills": [
+                    "Linux",
+                    "Bash",
+                    "Powershell",
+                    "Computer Science",
+                    "Docker",
+                    "C++",
+                    "Mbed",
+                    "Mathematics",
+                    "Software Development",
+                    "Continuous Integration and Continuous Delivery (CI/CD)",
+                    "Algorithms and Data structure",
+                    "Git"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/mcpp"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Bullet Time",
+                "start_date": "May 2023",
+                "end_date": "May 2023",
+                "description": [
+                    "Bullet Time - Pygame Project",
+                    "Inspiration Our inspiration for Bullet Time came from the classic Mario game, but with a unique twist where the player takes on the role of a bullet. The goal is to dodge obstacles and collect coins to win.",
+                    "Accomplishments We're Proud Of",
+                    "We're proud of creating a unique and engaging game that captures the nostalgia of classic games while offering a fresh and exciting gameplay experience. We also custom-designed all the sprites and learned Pygame in a short amount of time, which was an incredible accomplishment.",
+                    "What We Learned",
+                    "Through the development of Bullet Time, we learned a lot about Pygame and game development in general. We learned how to set up collisions, menus, sprites, animations, player stats, and maintain proper file names and conventions.",
+                    "What's Next for Bullet Time",
+                    "In the future, we plan to add more levels, enemies, and power-ups to make the game even more challenging and engaging for players. Additionally, we aim to incorporate audio to enhance the gaming experience.",
+                    "How to Run the Game",
+                    "To play the game, make sure you have Pygame installed and then simply run the main.py file in a Python IDE of your choice. The game will launch and you can start playing!",
+                    "About",
+                    "Game made with pygame"
+                ],
+                "associated_company": "",
+                "company_urn": "",
+                "skills": [],
+                "contributors": [
+                    "ACoAADKzbScBliAx2_kAKRGuzrtDorYp5Wg-AlU",
+                    "ACoAAC2LJJ0B8tRyFk3ojT44LDCGK1n3-Fp3368"
+                ],
+                "project_urls": [],
+                "media_items": [
+                    {
+                        "title": "GitHub - harith-alsafi/bullet-time: Game made with pygame",
+                        "url": "https://github.com/harith-alsafi/bullet-time",
+                        "type": "IC_LINK_EXTERNAL_16DP",
+                        "accessibility_text": "Thumbnail for GitHub - harith-alsafi/bullet-time: Game made with pygame"
+                    },
+                    {
+                        "title": "Bullet Time - Game Demo PYGAMES Hackathon",
+                        "url": "https://www.youtube.com/watch?v=RwvOr-RJSAg",
+                        "type": "IC_LINK_EXTERNAL_16DP",
+                        "accessibility_text": "Thumbnail for Bullet Time - Game Demo PYGAMES Hackathon"
+                    }
+                ]
+            },
+            {
+                "name": "Royal Hackaway v6 Web App",
+                "start_date": "Feb 2023",
+                "end_date": "Feb 2023",
+                "description": [
+                    "Submitted a dashboard web app made with Python, Flask, Matlab, Dash, Plotly, Auth0, Twilio and basic web tools."
+                ],
+                "associated_company": "",
+                "company_urn": "",
+                "skills": [
+                    "Computer Science",
+                    "Software Development",
+                    "Project Management"
+                ],
+                "contributors": [
+                    "ACoAADOpnnABoONTvoFNASBuoEBpFiaKd1LXWXQ",
+                    "ACoAADgg-C4BcemSBBE79kvB1slJJMs_L4tFgVI"
+                ],
+                "project_urls": [
+                    "https://devpost.com/software/1eat"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Mario Club Website",
+                "start_date": "Sep 2022",
+                "end_date": "Oct 2022",
+                "description": [
+                    "A simple mario club webite link made with HTML and CSS",
+                    "Repo: https://github.com/harith-alsafi/mario-website",
+                    "Website: https://harith-alsafi.github.io/mario-website/"
+                ],
+                "associated_company": "",
+                "company_urn": "",
+                "skills": [
+                    "Cascading Style Sheets (CSS)",
+                    "HTML5",
+                    "Computer Science",
+                    "Software Development",
+                    "JavaScript"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://harith-alsafi.github.io/mario-website/"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Mini Blog with React",
+                "start_date": "Sep 2022",
+                "end_date": "Oct 2022",
+                "description": [
+                    "A mini blog web application made with react and a json-server database.",
+                    "Repo: https://github.com/harith-alsafi/mini-blog",
+                    "Website: https://harith-alsafi.github.io/mini-blog/"
+                ],
+                "associated_company": "",
+                "company_urn": "",
+                "skills": [
+                    "Cascading Style Sheets (CSS)",
+                    "HTML5",
+                    "Computer Science",
+                    "React.js",
+                    "Software Development",
+                    "Continuous Integration and Continuous Delivery (CI/CD)",
+                    "JavaScript"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://harith-alsafi.github.io/mini-blog/"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "8 bit CPU with a custom compiler ",
+                "start_date": "Sep 2021",
+                "end_date": "Jun 2022",
+                "description": [
+                    "[soon to be released]"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Computer Science",
+                    "Assembly Language",
+                    "Digital Electronics",
+                    "Software Development"
+                ],
+                "contributors": [],
+                "project_urls": [],
+                "media_items": []
+            },
+            {
+                "name": "FPGA Timer",
+                "start_date": "Feb 2022",
+                "end_date": "Jun 2022",
+                "description": [
+                    "Skills: Computer Science · Software Development"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Computer Science",
+                    "Software Development"
+                ],
+                "contributors": [],
+                "project_urls": [],
+                "media_items": []
+            },
+            {
+                "name": "Data analysis and Machine Learning in C++",
+                "start_date": "Jan 2022",
+                "end_date": "May 2022",
+                "description": [
+                    "This is a statistical modelling library with a menu system CLI interface.",
+                    "Features:",
+                    "Statistical analysis (Average, STD, variance.. etc)",
+                    "Linear and Polynomial regression of a dataset with plotting",
+                    "Linear and Polynomial interpolation of a dataset with plotting",
+                    "Note: This will be soon combined with MCPP (the math library project)"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Digital Signal Processing",
+                    "Computer Science",
+                    "Machine Learning",
+                    "Software Development",
+                    "Project Management"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/statistic-model-cpp"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Digital signal processing with matlab",
+                "start_date": "Mar 2022",
+                "end_date": "May 2022",
+                "description": [
+                    "Simulating a signal communication system [will be released soon]"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Digital Signal Processing",
+                    "Computer Science",
+                    "Digital Electronics",
+                    "Software Development"
+                ],
+                "contributors": [],
+                "project_urls": [],
+                "media_items": []
+            },
+            {
+                "name": "Embedded system STM32 Home Automation",
+                "start_date": "Jan 2022",
+                "end_date": "May 2022",
+                "description": [
+                    "The project is designed using C++ on a physical STM32 board with physical circuitry and it uses the MBED OS for arm microprocessors.",
+                    "This project revolves around automating and simulating a home automation system such that we are able to automate home systems",
+                    "Features",
+                    "Control temperature using AC system",
+                    "Control lights using menu system",
+                    "Control devices and appliances using menu system",
+                    "Security and alarm system"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Circuit Design",
+                    "Embedded Systems",
+                    "Computer Science",
+                    "C++",
+                    "Digital Electronics",
+                    "Software Development"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/mbed-STM32L476"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Media Player GUI",
+                "start_date": "Jan 2022",
+                "end_date": "May 2022",
+                "description": [
+                    "A group project revolves around a Video browsing GUI written in Qt C++. Its able to manipulate collection of videos and add attributes to them.",
+                    "Some of the Features:",
+                    "Open and save collections",
+                    "open multiple videos and view them",
+                    "Add/remove tags",
+                    "Change/add location to video",
+                    "Add/remove videos from collections",
+                    "View the location of each video in the map",
+                    "The map automatically changes as you change the video",
+                    "Play/Pause/Stop the video",
+                    "Seek through the video",
+                    "Next and previous buttons to go though the videos",
+                    "Change the volume",
+                    "Have an overlay over the video that displays the current tag and location",
+                    "Displays an option such that you can chose which tag to remove",
+                    "Dynamic search",
+                    "Through video names",
+                    "Through tags",
+                    "Through location",
+                    "Through location and tags",
+                    "Sorting",
+                    "Sort by name ascend or descending",
+                    "Sort by length ascend or descending",
+                    "Sort by location ascend or descending"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Team Leadership",
+                    "Qt Creator",
+                    "Communication",
+                    "Computer Science",
+                    "C++",
+                    "Software Development",
+                    "Project Management"
+                ],
+                "contributors": [
+                    "ACoAADRaNo8BDSY9bJehEcVxM0bLrRTy8oyEZKQ",
+                    "ACoAACmnedUB20FbPfJ5RVFJKVoegVKNVwY8GEw"
+                ],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/mediaplayer"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Client and Multithreaded Server in Java",
+                "start_date": "Jan 2022",
+                "end_date": "Mar 2022",
+                "description": [
+                    "[Soon to be released]"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Computer Science",
+                    "Software Development"
+                ],
+                "contributors": [],
+                "project_urls": [],
+                "media_items": []
+            },
+            {
+                "name": "Library management system in C",
+                "start_date": "Feb 2021",
+                "end_date": "Apr 2021",
+                "description": [
+                    "A library system written in C [going to be released soon]"
+                ],
+                "associated_company": "",
+                "company_urn": "",
+                "skills": [
+                    "Linux",
+                    "Computer Science",
+                    "Software Development",
+                    "Git"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/library-management"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Personal portfolio",
+                "start_date": "Apr 2021",
+                "end_date": "Apr 2021",
+                "description": [
+                    "My personal portfolio containing information about me , my projects, education , accomplishments and work experience. [still under development]"
+                ],
+                "associated_company": "",
+                "company_urn": "",
+                "skills": [
+                    "Cascading Style Sheets (CSS)",
+                    "HTML5",
+                    "Computer Science",
+                    "Software Development",
+                    "Continuous Integration and Continuous Delivery (CI/CD)",
+                    "Git",
+                    "JavaScript"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/harith-alsafi.github.io"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Covid data visualisation in Java ",
+                "start_date": "Feb 2021",
+                "end_date": "Mar 2021",
+                "description": [
+                    "Visualising covid daily cases in java using JavaFx and data is read from a csv file."
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Java",
+                    "Computer Science",
+                    "Software Development",
+                    "Git"
+                ],
+                "contributors": [],
+                "project_urls": [],
+                "media_items": []
+            },
+            {
+                "name": "Game of life in C",
+                "start_date": "Mar 2021",
+                "end_date": "Mar 2021",
+                "description": [
+                    "Cell automation in C using SDL [going to be released soon]"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Linux",
+                    "Computer Science",
+                    "Software Development",
+                    "Git"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/game-of-life"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Simple embedded game and timer",
+                "start_date": "Feb 2021",
+                "end_date": "Feb 2021",
+                "description": [
+                    "Game and timer using mbed API and C++ [going to be released soon]"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Linux",
+                    "Circuit Design",
+                    "Embedded Systems",
+                    "Computer Science",
+                    "C++",
+                    "Mbed",
+                    "Digital Electronics",
+                    "Software Development",
+                    "Git"
+                ],
+                "contributors": [],
+                "project_urls": [
+                    "https://github.com/harith-alsafi/mbed-project"
+                ],
+                "media_items": []
+            },
+            {
+                "name": "Matlab network simulation ",
+                "start_date": "Sep 2020",
+                "end_date": "Dec 2020",
+                "description": [
+                    "Doing a simple network simulation in matlab such is implementing check sum, parity bits and other error detection methods."
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "MATLAB",
+                    "Computer Networking",
+                    "Computer Science",
+                    "Digital Electronics",
+                    "Mathematics",
+                    "Software Development",
+                    "Git"
+                ],
+                "contributors": [],
+                "project_urls": [],
+                "media_items": []
+            },
+            {
+                "name": "Car project Autodesk AutoCAD",
+                "start_date": "Sep 2019",
+                "end_date": "Dec 2019",
+                "description": [
+                    "Designing a race car with full suspension system, cockpit, body and engine"
+                ],
+                "associated_company": "University of Leeds",
+                "company_urn": "7244",
+                "skills": [
+                    "Team Leadership",
+                    "AutoCAD",
+                    "Computer Science",
+                    "Mathematics",
+                    "Project Management"
+                ],
+                "contributors": [],
+                "project_urls": [],
+                "media_items": []
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Data Analysis with Python",
+                "organization": "IBM",
+                "organization_urn": "1009",
+                "credential_id": "",
+                "issue_date": "Oct 2021",
+                "expiration_date": null,
+                "skills": [
+                    "Data Analysis",
+                    "Mathematics",
+                    "IBM Db2",
+                    "Python (Programming Language)",
+                    "Computer Science",
+                    "Data Science",
+                    "Machine Learning",
+                    "Software Development"
+                ],
+                "credential_url": "https://www.coursera.org/account/accomplishments/verify/SFEJ9UUL56HE"
+            },
+            {
+                "name": "Databases and SQL for Data Science with Python",
+                "organization": "IBM",
+                "organization_urn": "1009",
+                "credential_id": "",
+                "issue_date": "Sep 2021",
+                "expiration_date": null,
+                "skills": [
+                    "Data Analysis",
+                    "IBM Db2",
+                    "Python (Programming Language)",
+                    "Computer Science",
+                    "Data Science",
+                    "SQL",
+                    "Software Development"
+                ],
+                "credential_url": "https://www.coursera.org/account/accomplishments/verify/AKQGRHVDGKDU"
+            },
+            {
+                "name": "Data Science Methodology",
+                "organization": "IBM",
+                "organization_urn": "1009",
+                "credential_id": "",
+                "issue_date": "Aug 2021",
+                "expiration_date": null,
+                "skills": [
+                    "Computer Science"
+                ],
+                "credential_url": "https://www.coursera.org/account/accomplishments/records/7H73BEA9BSGQ"
+            },
+            {
+                "name": "Python for Data Science, AI & Development",
+                "organization": "IBM",
+                "organization_urn": "1009",
+                "credential_id": "",
+                "issue_date": "Aug 2021",
+                "expiration_date": null,
+                "skills": [
+                    "Python (Programming Language)",
+                    "Computer Science",
+                    "SQL",
+                    "Machine Learning",
+                    "Software Development"
+                ],
+                "credential_url": "https://www.coursera.org/account/accomplishments/verify/MMZMABVQBMHS"
+            },
+            {
+                "name": "Tools for data science",
+                "organization": "IBM",
+                "organization_urn": "1009",
+                "credential_id": "",
+                "issue_date": "Jul 2021",
+                "expiration_date": null,
+                "skills": [
+                    "IBM Db2",
+                    "Python (Programming Language)",
+                    "Computer Science",
+                    "Data Science",
+                    "Machine Learning"
+                ],
+                "credential_url": "https://www.coursera.org/account/accomplishments/records/Z6RM6Q36KF32"
+            },
+            {
+                "name": "What is data science?",
+                "organization": "IBM",
+                "organization_urn": "1009",
+                "credential_id": "",
+                "issue_date": "Jun 2021",
+                "expiration_date": null,
+                "skills": [
+                    "Computer Science"
+                ],
+                "credential_url": "https://www.coursera.org/account/accomplishments/records/DRYJSZ2RU5EF"
+            },
+            {
+                "name": "Matrix Algebra for Engineers",
+                "organization": "Coursera",
+                "organization_urn": "2453129",
+                "credential_id": "",
+                "issue_date": "Jan 2021",
+                "expiration_date": null,
+                "skills": [
+                    "Mathematics",
+                    "Machine Learning"
+                ],
+                "credential_url": "https://www.coursera.org/account/accomplishments/verify/93PY64WDHCXY?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Arabic",
+                "proficiency": "Full professional proficiency"
+            },
+            {
+                "name": "English",
+                "proficiency": "Full professional proficiency"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "Elementary proficiency"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Next.js",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Frontend Developer at Velz Travel"
+                ]
+            },
+            {
+                "name": "Tailwind CSS",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Frontend Developer at Velz Travel"
+                ]
+            },
+            {
+                "name": "Project Management",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Software Engineer at Johnson Controls"
+                ]
+            },
+            {
+                "name": "C++",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Software Engineer at Johnson Controls"
+                ]
+            },
+            {
+                "name": "Python (Programming Language)",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "3 experiences across Johnson Controls and 2 other companies"
+                ]
+            },
+            {
+                "name": "C#",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Software Engineer at Johnson Controls"
+                ]
+            },
+            {
+                "name": "Linux",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "2 experiences across Paperound and 1 other company"
+                ]
+            },
+            {
+                "name": "Software Development",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "3 experiences across Johnson Controls and 2 other companies",
+                    "2 educational experiences at University of Leeds"
+                ]
+            },
+            {
+                "name": "C (Programming Language)",
+                "endorsement_count": 1,
+                "related_experiences": [
+                    "Freelance Machine Learning Engineer at Paperound"
+                ]
+            },
+            {
+                "name": "Computer Science",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "3 experiences across Johnson Controls and 2 other companies",
+                    "What is data science?"
+                ]
+            },
+            {
+                "name": "Java",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "JavaScript",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Powershell",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Software Engineer at Johnson Controls"
+                ]
+            },
+            {
+                "name": "MATLAB",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Bash",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Information Technology Administrator at Mesopotamia Group"
+                ]
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "HTML5",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "React.js",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Frontend Developer at Velz Travel"
+                ]
+            },
+            {
+                "name": "SQL",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Git",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Software Engineer at Johnson Controls"
+                ]
+            },
+            {
+                "name": "Docker",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Embedded Systems",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Digital Signal Processing",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Circuit Design",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Algorithms and Data structure",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Computer Networking",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "Information Technology Administrator at Mesopotamia Group"
+                ]
+            },
+            {
+                "name": "Data Analysis",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Machine Learning",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Data Science",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Arduino",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Qt Creator",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Programming",
+                "endorsement_count": 1,
+                "related_experiences": []
+            },
+            {
+                "name": "IBM Db2",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Digital Electronics",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "AutoCAD",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "LaTeX",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Assembly Language",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Mbed",
+                "endorsement_count": 0,
+                "related_experiences": []
+            },
+            {
+                "name": "Mathematics",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "3 educational experiences at University of Leeds and 1 other school"
+                ]
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "2 experiences across Johnson Controls and 1 other company",
+                    "2 educational experiences at University of Leeds and 1 other school"
+                ]
+            },
+            {
+                "name": "Team Leadership",
+                "endorsement_count": 0,
+                "related_experiences": [
+                    "2 experiences across University of Leeds and 1 other company"
+                ]
+            },
+            {
+                "name": "Communication",
+                "endorsement_count": 1,
+                "related_experiences": [
+                    "Course Representative at University of Leeds"
+                ]
+            },
+            {
+                "name": "English",
+                "endorsement_count": 1,
+                "related_experiences": []
+            },
+            {
+                "name": "Arabic",
+                "endorsement_count": 1,
+                "related_experiences": []
+            }
+        ],
+        "recommendations": {
+            "received_recommendations": [],
+            "given_recommendations": []
+        },
+        "honors": [
+            {
+                "title": "Futur leaders: Top 3 finalists",
+                "date": "May 2023",
+                "issuer": "Johnson Controls",
+                "issuer_urn": "2247",
+                "description": [
+                    "Participated in an insider internship program Future Leaders. We compete amongst 18 teams each with around 10 members, we ended up picking an idea in which we integrate GPT into one of JCI’s existing products. I fully lead the team to end up placing in the top 3. We managed to design an architectural solution amongst showcasing a Figma design prototype and showcasing a business case discussing the return on investments costs sales margin and even a development timeline. The final judges were vice presidents of the company which meant I had to present in an innovative way."
+                ],
+                "media_url": ""
+            },
+            {
+                "title": "Royal Hackaway v6 best use of Matlab",
+                "date": "Feb 2023",
+                "issuer": "Royal Hackaway",
+                "issuer_urn": "",
+                "description": [
+                    "Won the best use of Matlab award in hackathon event.",
+                    "Project submitted:",
+                    "https://devpost.com/software/1eat"
+                ],
+                "media_url": ""
+            },
+            {
+                "title": "Royal Hackaway v6 best use of auth0",
+                "date": "Feb 2023",
+                "issuer": "Royal Hackaway",
+                "issuer_urn": "",
+                "description": [
+                    "Won the best use of auth0 in a hackathon.",
+                    "Project submitted:",
+                    "https://devpost.com/software/1eat"
+                ],
+                "media_url": ""
+            },
+            {
+                "title": "LISC Runner up",
+                "date": "May 2020",
+                "issuer": "Leeds",
+                "issuer_urn": "7244",
+                "description": [
+                    "Honourable mention for the hard work , attitude and expelling results"
+                ],
+                "media_url": ""
+            },
+            {
+                "title": "CHS-MUN - Best delegate award",
+                "date": "Oct 2018",
+                "issuer": "Cambridge High School",
+                "issuer_urn": "22614",
+                "description": [
+                    "MUN is known as Modern United Nations in which we discuss global politics and some ongoing issues. I received the best delegate in an honour of detailed debates and factual information."
+                ],
+                "media_url": ""
+            }
+        ],
+        "volunteering-experiences": [
+            {
+                "title": "CAS Volunteering Student",
+                "organization_name": "International Baccalaureate",
+                "organization_urn": "22614",
+                "start_date": "Sep 2017",
+                "end_date": "Jun 2019",
+                "duration": "Sep 2017 - Jun 2019 · 1 yr 10 mos",
+                "sector": "Social Services",
+                "description": [
+                    "Charity work such as helping those in need, in addition to volunteering for events mainly in the school and outside the school"
+                ]
+            },
+            {
+                "title": "Event Coordinator",
+                "organization_name": "IEEE RAS ICRA",
+                "organization_urn": "71265894",
+                "start_date": "Jun 2023",
+                "end_date": "",
+                "duration": "Jun 2023 · 1 mo",
+                "sector": "Science and Technology",
+                "description": [
+                    "ICRA 2023 in ExceL London",
+                    "Started on 28th of May till 2nd of June",
+                    "Assisted in organising the event making sure everyone knows the correct workshops"
+                ]
+            }
+        ]
+    }
+]
