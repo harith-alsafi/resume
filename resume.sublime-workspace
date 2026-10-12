@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Str",
+				"String"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"terminus se",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"todore",
+				"TodoReview: Open Files"
+			],
+			[
+				"lsp ",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"panel",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp based",
+				"Preferences: LSP-basedpyright Settings"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"move",
+				"Move Tab: To the right"
+			],
+			[
+				"spli",
+				"File: Split View"
+			],
+			[
+				"prefe ls",
+				"Preferences: LSP Settings"
+			],
+			[
+				"pref",
+				"Preferences: Mouse Bindings"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pref ",
+				"Preferences: Settings"
+			],
+			[
+				"disable pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"terminus ",
+				"Terminus: Reset"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"lspbas",
+				"Preferences: LSP-basedpyright Settings"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"new termin",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus the",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"projec",
+				"Project: Edit Project"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"term",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"close te",
+				"Terminus: Close"
+			],
+			[
+				"terminus set",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"toggle in",
+				"History: Toggle Inline Diff"
+			],
+			[
+				"diff",
+				"History: Toggle Inline Diff"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"jdt",
+				"Preferences: LSP-jdtls Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"codex",
+				"Codex: New Message"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"git gutter ",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"set syntax typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"git ",
+				"Set Syntax: Git Diff"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"select them",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 334.0,
+		"history":
+		[
+			"output.sublime_linter",
+			"window.run_command(\"toggle_column_layout\")",
+			"import codex_panel; print(\"OK\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/harith.alsafi/Data/Projects/resume"
+	],
+	"file_history":
+	[
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/candidate/dto/response/ParsedResumeDto.java",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/candidate/dto/response/SectionDto.java",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/ai/service/impl/LlmServiceImpl.java",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/User/TodoReview.sublime-settings",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/candidate/dto/response/LanguageLevelDto.java",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/candidate/service/impl/ResumeParsingServiceImpl.java",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/User/todo_panel.py",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/User/toggle_column_layout.py",
+		"/Applications/Sublime Text.app/Contents/MacOS/Lib/python33/sublime_plugin.py",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/candidate/dto/request/AssignJobRequest.java",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/.env",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/candidate/mapper/ParsedResumeMapper.java",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/scripts/docker-compose-orc.yml",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/src/features/auth/use-current-user.ts",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/.env",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/src/lib/mock/data.ts",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-playground/linkedin_job_wrapper/feeds.py",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/ai/controller/AiController.java",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/package.json",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/src/app/auth/callback/page.tsx",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/User/codex_panel.py",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/User/toggle_terminus_panel.py",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cv-studio-entp.sublime-project",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/User/toggle_split_layout.py",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/src/data/data.ts",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/src/data/email-templates.json",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/harith.alsafi/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/src/hooks/use-mobile.ts",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/src/app/page.tsx",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-backend/src/main/java/com/cvstudio/backend/ai/dto/request/EmbeddingRequest.java",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-main/cv-studio/src/hooks/use-copy-to-clipboard.ts",
+		"/Users/harith.alsafi/Data/Projects/TopnotchDev/cvstudio-main/cv-studio/src/hooks/use-auth.ts",
+		"/Users/harith.alsafi/scripts/raycast/custom-script/assets/eject.sh",
+		"/Users/harith.alsafi/scripts/raycast/custom-script/assets/mount.sh",
+		"/Users/harith.alsafi/scripts/raycast/cotypist.applescript",
+		"/Users/harith.alsafi/scripts/raycast/moom-save.applescript",
+		"/Users/harith.alsafi/scripts/raycast/moom-restore.applescript",
+		"/Users/harith.alsafi/scripts/raycast/launch-sublime.sh",
+		"/Users/harith.alsafi/Downloads/Space3.moom",
+		"/Users/harith.alsafi/scripts/raycast/mount.sh",
+		"/Users/harith.alsafi/scripts/raycast/commands.sh",
+		"/Users/harith.alsafi/Data/Projects/ctrader-algo/src/Bot.cs",
+		"/Users/harith.alsafi/.zshrc",
+		"/Volumes/DATA/Personal/passwords.text",
+		"/Users/harith.alsafi/Downloads/configs/.zshrc"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "resume.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"parsed",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/ParsedResumeDto.java"
+			],
+			[
+				"pa",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/ParsedResumeDto.java"
+			],
+			[
+				"sec",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/SectionDto.java"
+			],
+			[
+				"pars",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/ParsedResumeDto.java"
+			],
+			[
+				"par",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/ParsedResumeDto.java"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"resumeparsing",
+				"src/main/java/com/cvstudio/backend/candidate/service/impl/ResumeParsingServiceImpl.java"
+			],
+			[
+				"parsedres",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/ParsedResumeDto.java"
+			],
+			[
+				"languag",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/LanguageLevelDto.java"
+			],
+			[
+				"sectio",
+				"src/main/java/com/cvstudio/backend/candidate/dto/response/SectionDto.java"
+			],
+			[
+				"pack",
+				"cvstudio-entp-frontend/package.json"
+			],
+			[
+				".en",
+				"cvstudio-entp-frontend/.env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 501.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Data/Projects/TopnotchDev/cvstudio-entp/cvstudio-entp-frontend/cvstudio-entp-frontend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 389.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
